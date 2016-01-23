@@ -1,0 +1,22 @@
+# See https://atom.io/docs/latest/hacking-atom-package-word-count#menus for more details
+'context-menu':
+  'atom-text-editor': [
+    {
+      'label': 'Toggle at-cdn-snippets'
+      'command': 'at-cdn-snippets:toggle'
+    }
+  ]
+'menu': [
+  {
+    'label': 'Packages'
+    'submenu': [
+      'label': 'at-cdn-snippets'
+      'submenu': [
+        {
+          'label': 'Toggle'
+          'command': 'at-cdn-snippets:toggle'
+        }
+      ]
+    ]
+  }
+]

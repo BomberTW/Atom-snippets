@@ -1,0 +1,18 @@
+{
+  "name": "at-font-snippets",
+  "main": "./lib/at-font-snippets",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "at-font-snippets:toggle"
+  },
+  "repository": "https://github.com/atom/at-font-snippets",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

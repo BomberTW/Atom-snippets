@@ -1,0 +1,6083 @@
+".text.html":
+  'apple':
+    'prefix': 'apple'
+    'body': '''
+    <i class="glyphicon glyphicon-apple"></i>
+    '''
+
+  'apple':
+    'prefix': 'apple'
+    'body': '''
+    <i class="fa fa-apple"></i>
+    '''
+
+  'css3':
+    'prefix': 'css3'
+    'body': '''
+<i class="fa fa-css3"></i>
+'''
+  'qq':
+    'prefix': 'qq'
+    'body': '''
+<i class="fa fa-qq"></i>
+'''
+  '亞馬遜':
+    'prefix': '亞馬遜'
+    'body': '''
+<i class="fa fa-amazon"></i>
+'''
+  '安卓':
+    'prefix': '安卓'
+    'body': '''
+<i class="fa fa-android"></i>
+'''
+  'delicious':
+    'prefix': 'delicious'
+    'body': '''
+<i class="fa fa-delicious"></i>
+'''
+  'digg':
+    'prefix': 'digg'
+    'body': '''
+<i class="fa fa-digg"></i>
+'''
+  'dribbble':
+    'prefix': 'dribbble'
+    'body': '''
+<i class="fa fa-dribbble"></i>
+'''
+  'drupal':
+    'prefix': 'drupal'
+    'body': '''
+<i class="fa fa-drupal"></i>
+'''
+  'houzz':
+    'prefix': 'houzz'
+    'body': '''
+<i class="fa fa-houzz"></i>
+'''
+  'html5':
+    'prefix': 'html5'
+    'body': '''
+<i class="fa fa-html5"></i>
+'''
+  'inbox':
+    'prefix': 'inbox'
+    'body': '''
+<i class="fa fa-inbox"></i>
+'''
+  'instagram':
+    'prefix': 'instagram'
+    'body': '''
+<i class="fa fa-instagram"></i>
+'''
+  'joomla':
+    'prefix': 'joomla'
+    'body': '''
+<i class="fa fa-joomla"></i>
+'''
+  'jsfiddle':
+    'prefix': 'jsfiddle'
+    'body': '''
+<i class="fa fa-jsfiddle"></i>
+'''
+  'magnet':
+    'prefix': 'magnet'
+    'body': '''
+<i class="fa fa-magnet"></i>
+'''
+  'paypal':
+    'prefix': 'paypal'
+    'body': '''
+<i class="fa fa-paypal"></i>
+'''
+  'pied-piper':
+    'prefix': 'pied-piper'
+    'body': '''
+<i class="fa fa-pied-piper-alt"></i>
+'''
+  'pied-piper':
+    'prefix': 'pied-piper'
+    'body': '''
+<i class="fa fa-pied-piper"></i>
+'''
+  'skype':
+    'prefix': 'skype'
+    'body': '''
+<i class="fa fa-skype"></i>
+'''
+  'slack':
+    'prefix': 'slack'
+    'body': '''
+<i class="fa fa-slack"></i>
+'''
+  'slideshare':
+    'prefix': 'slideshare'
+    'body': '''
+<i class="fa fa-slideshare"></i>
+'''
+  'stack-overflow':
+    'prefix': 'stack-overflow'
+    'body': '''
+<i class="fa fa-stack-overflow"></i>
+'''
+  'trello':
+    'prefix': 'trello'
+    'body': '''
+<i class="fa fa-trello"></i>
+'''
+  'tripadvisor':
+    'prefix': 'tripadvisor'
+    'body': '''
+<i class="fa fa-tripadvisor"></i>
+'''
+  'wechat':
+    'prefix': 'wechat'
+    'body': '''
+<i class="fa fa-weixin"></i>
+'''
+  'whatsapp':
+    'prefix': 'whatsapp'
+    'body': '''
+<i class="fa fa-whatsapp"></i>
+'''
+  'windows':
+    'prefix': 'windows'
+    'body': '''
+<i class="fa fa-windows"></i>
+'''
+  'wordpress':
+    'prefix': 'wordpress'
+    'body': '''
+<i class="fa fa-wordpress"></i>
+'''
+  '新浪':
+    'prefix': '新浪'
+    'body': '''
+<i class="fa fa-weibo"></i>
+'''
+  '維基百科':
+    'prefix': '維基百科'
+    'body': '''
+<i class="fa fa-wikipedia-w"></i>
+'''
+  '計算機':
+    'prefix': '計算機'
+    'body': '''
+<i class="fa fa-calculator"></i>
+'''
+
+  'bitbucket':
+    'prefix': 'bitbucket'
+    'body': '''
+<i class="fa fa-bitbucket"></i>
+'''
+  'bitbucket':
+    'prefix': 'bitbucket'
+    'body': '''
+<i class="fa fa-bitbucket-square"></i>
+'''
+
+  'bscdn':
+    'prefix': 'bscdn'
+    'body': '''
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+'''
+
+  'cdn':
+    'prefix': 'cdn'
+    'body': '''
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+'''
+
+  'cms':
+    'prefix': 'cms'
+    'body': '''
+<i class="fa fa-drupal"></i>
+'''
+  'cms':
+    'prefix': 'cms'
+    'body': '''
+<i class="fa fa-joomla"></i>
+'''
+  'cms':
+    'prefix': 'cms'
+    'body': '''
+<i class="fa fa-wordpress"></i>
+'''
+
+  'codepen':
+    'prefix': 'codepen'
+    'body': '''
+<i class="fa fa-codepen"></i>
+'''
+
+  'dropbox':
+    'prefix': 'dropbox'
+    'body': '''
+<i class="fa fa-dropbox"></i>
+'''
+
+  'emailicon':
+    'prefix': 'emailicon'
+    'body': '''
+<i class="glyphicon glyphicon-envelope"></i>
+'''
+  'emailicon':
+    'prefix': 'emailicon'
+    'body': '''
+<i class="fa fa-envelope-square"></i>
+'''
+  'emailicon':
+    'prefix': 'emailicon'
+    'body': '''
+<i class="fa fa-envelope-o"></i>
+'''
+  'emailicon':
+    'prefix': 'emailicon'
+    'body': '''
+<i class="fa fa-envelope"></i>
+'''
+
+  'facdn':
+    'prefix': 'facdn'
+    'body': '''
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+'''
+
+  'facebook':
+    'prefix': 'facebook'
+    'body': '''
+<i class="fa fa-facebook"></i>
+'''
+  'facebook':
+    'prefix': 'facebook'
+    'body': '''
+<i class="fa fa-facebook-square"></i>
+'''
+  'facebook':
+    'prefix': 'facebook'
+    'body': '''
+<i class="fa fa-facebook-official"></i>
+'''
+
+  'git':
+    'prefix': 'git'
+    'body': '''
+<i class="fa fa-git-square"></i>
+'''
+  'git':
+    'prefix': 'git'
+    'body': '''
+<i class="fa fa-git"></i>
+'''
+
+  'github':
+    'prefix': 'github'
+    'body': '''
+<i class="fa fa-github"></i>
+'''
+  'github':
+    'prefix': 'github'
+    'body': '''
+<i class="fa fa-github-square"></i>
+'''
+  'github':
+    'prefix': 'github'
+    'body': '''
+<i class="fa fa-github-alt"></i>
+'''
+
+  'google':
+    'prefix': 'google'
+    'body': '''
+<i class="fa fa-google"></i>
+'''
+  'google':
+    'prefix': 'google'
+    'body': '''
+<i class="fa fa-google-plus"></i>
+'''
+  'google':
+    'prefix': 'google'
+    'body': '''
+<i class="fa fa-google-plus-square"></i>
+'''
+  'google':
+    'prefix': 'google'
+    'body': '''
+<i class="fa fa-chrome"></i>
+'''
+
+  'gratipay':
+    'prefix': 'gratipay'
+    'body': '''
+<i class="fa fa-gratipay"></i>
+'''
+
+  'im':
+    'prefix': 'im'
+    'body': '''
+<i class="fa fa-qq"></i>
+'''
+  'im':
+    'prefix': 'im'
+    'body': '''
+<i class="fa fa-skype"></i>
+'''
+  'im':
+    'prefix': 'im'
+    'body': '''
+<i class="fa fa-weixin"></i>
+'''
+  'im':
+    'prefix': 'im'
+    'body': '''
+<i class="fa fa-whatsapp"></i>
+'''
+
+  'linkedin':
+    'prefix': 'linkedin'
+    'body': '''
+<i class="fa fa-linkedin"></i>
+'''
+  'linkedin':
+    'prefix': 'linkedin'
+    'body': '''
+<i class="fa fa-linkedin-square"></i>
+'''
+
+  'linux':
+    'prefix': 'linux'
+    'body': '''
+<i class="fa fa-linux"></i>
+'''
+
+  'logo':
+    'prefix': 'logo'
+    'body': '''
+<i class="fa fa-qq"></i>
+'''
+  'logo':
+    'prefix': 'logo'
+    'body': '''
+<i class="fa fa-amazon"></i>
+'''
+  'logo':
+    'prefix': 'logo'
+    'body': '''
+<i class="fa fa-bitbucket"></i>
+'''
+  'logo':
+    'prefix': 'logo'
+    'body': '''
+<i class="fa fa-bitbucket-square"></i>
+'''
+  'logo':
+    'prefix': 'logo'
+    'body': '''
+<i class="fa fa-codepen"></i>
+'''
+  'logo':
+    'prefix': 'logo'
+    'body': '''
+<i class="fa fa-delicious"></i>
+'''
+  'logo':
+    'prefix': 'logo'
+    'body': '''
+<i class="fa fa-digg"></i>
+'''
+  'logo':
+    'prefix': 'logo'
+    'body': '''
+<i class="fa fa-dribbble"></i>
+'''
+  'logo':
+    'prefix': 'logo'
+    'body': '''
+<i class="fa fa-dropbox"></i>
+'''
+  'logo':
+    'prefix': 'logo'
+    'body': '''
+<i class="fa fa-drupal"></i>
+'''
+  'logo':
+    'prefix': 'logo'
+    'body': '''
+<i class="fa fa-google"></i>
+'''
+  'logo':
+    'prefix': 'logo'
+    'body': '''
+<i class="fa fa-google-plus"></i>
+'''
+  'logo':
+    'prefix': 'logo'
+    'body': '''
+<i class="fa fa-google-plus-square"></i>
+'''
+  'logo':
+    'prefix': 'logo'
+    'body': '''
+<i class="fa fa-instagram"></i>
+'''
+  'logo':
+    'prefix': 'logo'
+    'body': '''
+<i class="fa fa-joomla"></i>
+'''
+  'logo':
+    'prefix': 'logo'
+    'body': '''
+<i class="fa fa-jsfiddle"></i>
+'''
+  'logo':
+    'prefix': 'logo'
+    'body': '''
+<i class="fa fa-pied-piper-alt"></i>
+'''
+  'logo':
+    'prefix': 'logo'
+    'body': '''
+<i class="fa fa-pied-piper"></i>
+'''
+  'logo':
+    'prefix': 'logo'
+    'body': '''
+<i class="fa fa-pinterest-p"></i>
+'''
+  'logo':
+    'prefix': 'logo'
+    'body': '''
+<i class="fa fa-pinterest"></i>
+'''
+  'logo':
+    'prefix': 'logo'
+    'body': '''
+<i class="fa fa-pinterest-square"></i>
+'''
+  'logo':
+    'prefix': 'logo'
+    'body': '''
+<i class="fa fa-skype"></i>
+'''
+  'logo':
+    'prefix': 'logo'
+    'body': '''
+<i class="fa fa-slack"></i>
+'''
+  'logo':
+    'prefix': 'logo'
+    'body': '''
+<i class="fa fa-slideshare"></i>
+'''
+  'logo':
+    'prefix': 'logo'
+    'body': '''
+<i class="fa fa-stack-overflow"></i>
+'''
+  'logo':
+    'prefix': 'logo'
+    'body': '''
+<i class="fa fa-trello"></i>
+'''
+  'logo':
+    'prefix': 'logo'
+    'body': '''
+<i class="fa fa-tripadvisor"></i>
+'''
+  'logo':
+    'prefix': 'logo'
+    'body': '''
+<i class="fa fa-tumblr"></i>
+'''
+  'logo':
+    'prefix': 'logo'
+    'body': '''
+<i class="fa fa-tumblr-square"></i>
+'''
+  'logo':
+    'prefix': 'logo'
+    'body': '''
+<i class="fa fa-weixin"></i>
+'''
+  'logo':
+    'prefix': 'logo'
+    'body': '''
+<i class="fa fa-whatsapp"></i>
+'''
+  'logo':
+    'prefix': 'logo'
+    'body': '''
+<i class="fa fa-wordpress"></i>
+'''
+
+  'paypal':
+    'prefix': 'paypal'
+    'body': '''
+<i class="fa fa-paypal"></i>
+'''
+  'paypal':
+    'prefix': 'paypal'
+    'body': '''
+<i class="fa fa-cc-paypal"></i>
+'''
+
+  'pinterest':
+    'prefix': 'pinterest'
+    'body': '''
+<i class="fa fa-pinterest-p"></i>
+'''
+  'pinterest':
+    'prefix': 'pinterest'
+    'body': '''
+<i class="fa fa-pinterest"></i>
+'''
+  'pinterest':
+    'prefix': 'pinterest'
+    'body': '''
+<i class="fa fa-pinterest-square"></i>
+'''
+
+  'rss':
+    'prefix': 'rss'
+    'body': '''
+<i class="fa fa-rss-square"></i>
+'''
+  'rss':
+    'prefix': 'rss'
+    'body': '''
+<i class="fa fa-rss"></i>
+'''
+
+  'spotify':
+    'prefix': 'spotify'
+    'body': '''
+<i class="fa fa-spotify"></i>
+'''
+
+  'tumblr':
+    'prefix': 'tumblr'
+    'body': '''
+<i class="fa fa-tumblr"></i>
+'''
+  'tumblr':
+    'prefix': 'tumblr'
+    'body': '''
+<i class="fa fa-tumblr-square"></i>
+'''
+
+  'twitter':
+    'prefix': 'twitter'
+    'body': '''
+<i class="fa fa-twitter"></i>
+'''
+  'twitter':
+    'prefix': 'twitter'
+    'body': '''
+<i class="fa fa-twitter-square"></i>
+'''
+
+  'vimeo':
+    'prefix': 'vimeo'
+    'body': '''
+<i class="fa fa-vimeo"></i>
+'''
+  'vimeo':
+    'prefix': 'vimeo'
+    'body': '''
+<i class="fa fa-vimeo"></i>
+'''
+
+  'wifi':
+    'prefix': 'wifi'
+    'body': '''
+<i class="fa fa-wifi"></i>
+'''
+
+  'youtube':
+    'prefix': 'youtube'
+    'body': '''
+<i class="fa fa-youtube-square"></i>
+'''
+  'youtube':
+    'prefix': 'youtube'
+    'body': '''
+<i class="fa fa-youtube-play"></i>
+'''
+  'youtube':
+    'prefix': 'youtube'
+    'body': '''
+<i class="fa fa-youtube"></i>
+'''
+
+  '三明治':
+    'prefix': '三明治'
+    'body': '''
+<i class="glyphicon glyphicon-menu-hamburger"></i>
+'''
+  '三明治':
+    'prefix': '三明治'
+    'body': '''
+<i class="fa fa-bars"></i>
+'''
+
+  '三角形':
+    'prefix': '三角形'
+    'body': '''
+<i class="glyphicon glyphicon-triangle-top"></i>
+'''
+  '三角形':
+    'prefix': '三角形'
+    'body': '''
+<i class="glyphicon glyphicon-triangle-bottom"></i>
+'''
+  '三角形':
+    'prefix': '三角形'
+    'body': '''
+<i class="glyphicon glyphicon-triangle-right"></i>
+'''
+  '三角形':
+    'prefix': '三角形'
+    'body': '''
+<i class="glyphicon glyphicon-triangle-left"></i>
+'''
+  '三角形':
+    'prefix': '三角形'
+    'body': '''
+<i class="fa fa-caret-up"></i>
+'''
+  '三角形':
+    'prefix': '三角形'
+    'body': '''
+<i class="fa fa-caret-down"></i>
+'''
+  '三角形':
+    'prefix': '三角形'
+    'body': '''
+<i class="fa fa-caret-right"></i>
+'''
+  '三角形':
+    'prefix': '三角形'
+    'body': '''
+<i class="fa fa-caret-left"></i>
+'''
+  '三角形':
+    'prefix': '三角形'
+    'body': '''
+<i class="fa fa-caret-square-up"></i>
+'''
+  '三角形':
+    'prefix': '三角形'
+    'body': '''
+<i class="fa fa-caret-square-down"></i>
+'''
+  '三角形':
+    'prefix': '三角形'
+    'body': '''
+<i class="fa fa-caret-square-right"></i>
+'''
+  '三角形':
+    'prefix': '三角形'
+    'body': '''
+<i class="fa fa-caret-square-left"></i>
+'''
+
+  '上傳':
+    'prefix': '上傳'
+    'body': '''
+<i class="glyphicon glyphicon-open-file"></i>
+'''
+  '上傳':
+    'prefix': '上傳'
+    'body': '''
+<i class="glyphicon glyphicon-floppy-open"></i>
+'''
+  '上傳':
+    'prefix': '上傳'
+    'body': '''
+<i class="glyphicon glyphicon-arrow-up"></i>
+'''
+  '上傳':
+    'prefix': '上傳'
+    'body': '''
+<i class="glyphicon glyphicon-circle-arrow-up"></i>
+'''
+  '上傳':
+    'prefix': '上傳'
+    'body': '''
+<i class="glyphicon glyphicon-circle-arrow-upload"></i>
+'''
+  '上傳':
+    'prefix': '上傳'
+    'body': '''
+<i class="glyphicon glyphicon-chevron-up"></i>
+'''
+  '上傳':
+    'prefix': '上傳'
+    'body': '''
+<i class="glyphicon glyphicon-menu-up"></i>
+'''
+  '上傳':
+    'prefix': '上傳'
+    'body': '''
+<i class="glyphicon glyphicon-level-up"></i>
+'''
+  '上傳':
+    'prefix': '上傳'
+    'body': '''
+<i class="glyphicon glyphicon-cloud-upload"></i>
+'''
+  '上傳':
+    'prefix': '上傳'
+    'body': '''
+<i class="fa fa-upload"></i>
+'''
+  '上傳':
+    'prefix': '上傳'
+    'body': '''
+<i class="fa fa-arrow-top"></i>
+'''
+  '上傳':
+    'prefix': '上傳'
+    'body': '''
+<i class="fa fa-arrow-circle-top"></i>
+'''
+  '上傳':
+    'prefix': '上傳'
+    'body': '''
+<i class="fa fa-arrow-circle-o-top"></i>
+'''
+  '上傳':
+    'prefix': '上傳'
+    'body': '''
+<i class="fa fa-chevron-up"></i>
+'''
+  '上傳':
+    'prefix': '上傳'
+    'body': '''
+<i class="fa fa-angle-double-up"></i>
+'''
+  '上傳':
+    'prefix': '上傳'
+    'body': '''
+<i class="fa fa-angle-up"></i>
+'''
+  '上傳':
+    'prefix': '上傳'
+    'body': '''
+<i class="fa fa-cloud-upload"></i>
+'''
+  '上傳':
+    'prefix': '上傳'
+    'body': '''
+<i class="fa fa-chevron-cicle-up"></i>
+'''
+
+  '下載':
+    'prefix': '下載'
+    'body': '''
+<i class="glyphicon glyphicon-save-file"></i>
+'''
+  '下載':
+    'prefix': '下載'
+    'body': '''
+<i class="glyphicon glyphicon-floppy-save"></i>
+'''
+  '下載':
+    'prefix': '下載'
+    'body': '''
+<i class="glyphicon glyphicon-arrow-down"></i>
+'''
+  '下載':
+    'prefix': '下載'
+    'body': '''
+<i class="glyphicon glyphicon-circle-arrow-down"></i>
+'''
+  '下載':
+    'prefix': '下載'
+    'body': '''
+<i class="glyphicon glyphicon-download"></i>
+'''
+  '下載':
+    'prefix': '下載'
+    'body': '''
+<i class="glyphicon glyphicon-chevron-down"></i>
+'''
+  '下載':
+    'prefix': '下載'
+    'body': '''
+<i class="glyphicon glyphicon-menu-down"></i>
+'''
+  '下載':
+    'prefix': '下載'
+    'body': '''
+<i class="glyphicon glyphicon-cloud-download"></i>
+'''
+  '下載':
+    'prefix': '下載'
+    'body': '''
+<i class="fa fa-spinner"></i>
+'''
+  '下載':
+    'prefix': '下載'
+    'body': '''
+<i class="fa fa-download"></i>
+'''
+  '下載':
+    'prefix': '下載'
+    'body': '''
+<i class="fa fa-arrow-down"></i>
+'''
+  '下載':
+    'prefix': '下載'
+    'body': '''
+<i class="fa fa-arrow-circle-down"></i>
+'''
+  '下載':
+    'prefix': '下載'
+    'body': '''
+<i class="fa fa-arrow-circle-o-down"></i>
+'''
+  '下載':
+    'prefix': '下載'
+    'body': '''
+<i class="fa fa-chevron-down"></i>
+'''
+  '下載':
+    'prefix': '下載'
+    'body': '''
+<i class="fa fa-angle-double-down"></i>
+'''
+  '下載':
+    'prefix': '下載'
+    'body': '''
+<i class="fa fa-angle-down"></i>
+'''
+  '下載':
+    'prefix': '下載'
+    'body': '''
+<i class="fa fa-cloud-download"></i>
+'''
+  '下載':
+    'prefix': '下載'
+    'body': '''
+<i class="fa fa-chevron-cicle-down"></i>
+'''
+
+  '不開心':
+    'prefix': '不開心'
+    'body': '''
+<i class="fa fa-frown-o"></i>
+'''
+
+  '五倍紅寶石':
+    'prefix': '五倍紅寶石'
+    'body': '''
+<i class="fa fa-diamond"></i>
+'''
+
+  '交通工具':
+    'prefix': '交通工具'
+    'body': '''
+<i class="fa fa-truck"></i>
+'''
+  '交通工具':
+    'prefix': '交通工具'
+    'body': '''
+<i class="fa fa-bus"></i>
+'''
+  '交通工具':
+    'prefix': '交通工具'
+    'body': '''
+<i class="fa fa-subway"></i>
+'''
+  '交通工具':
+    'prefix': '交通工具'
+    'body': '''
+<i class="fa fa-ambulance"></i>
+'''
+  '交通工具':
+    'prefix': '交通工具'
+    'body': '''
+<i class="fa fa-motorcycle"></i>
+'''
+  '交通工具':
+    'prefix': '交通工具'
+    'body': '''
+<i class="fa fa-car"></i>
+'''
+  '交通工具':
+    'prefix': '交通工具'
+    'body': '''
+<i class="fa fa-train"></i>
+'''
+  '交通工具':
+    'prefix': '交通工具'
+    'body': '''
+<i class="fa fa-bicycle"></i>
+'''
+  '交通工具':
+    'prefix': '交通工具'
+    'body': '''
+<i class="fa fa-ship"></i>
+'''
+  '交通工具':
+    'prefix': '交通工具'
+    'body': '''
+<i class="fa fa-taxi"></i>
+'''
+
+  '人':
+    'prefix': '人'
+    'body': '''
+<i class="glyphicon glyphicon-user"></i>
+'''
+  '人':
+    'prefix': '人'
+    'body': '''
+<i class="fa fa-users"></i>
+'''
+  '人':
+    'prefix': '人'
+    'body': '''
+<i class="fa fa-user"></i>
+'''
+  '人':
+    'prefix': '人'
+    'body': '''
+<i class="fa fa-female"></i>
+'''
+  '人':
+    'prefix': '人'
+    'body': '''
+<i class="fa fa-child"></i>
+'''
+  '人':
+    'prefix': '人'
+    'body': '''
+<i class="fa fa-male"></i>
+'''
+  '人':
+    'prefix': '人'
+    'body': '''
+<i class="fa fa-bed"></i>
+'''
+  '人':
+    'prefix': '人'
+    'body': '''
+<i class="fa fa-wheelchair"></i>
+'''
+
+  '伺服器':
+    'prefix': '伺服器'
+    'body': '''
+<i class="fa fa-server"></i>
+'''
+
+  '作業系統':
+    'prefix': '作業系統'
+    'body': '''
+<i class="fa fa-android"></i>
+'''
+  '作業系統':
+    'prefix': '作業系統'
+    'body': '''
+<i class="fa fa-apple"></i>
+'''
+  '作業系統':
+    'prefix': '作業系統'
+    'body': '''
+<i class="fa fa-linux"></i>
+'''
+  '作業系統':
+    'prefix': '作業系統'
+    'body': '''
+<i class="fa fa-windows"></i>
+'''
+
+  '使用者':
+    'prefix': '使用者'
+    'body': '''
+<i class="glyphicon glyphicon-user"></i>
+'''
+  '使用者':
+    'prefix': '使用者'
+    'body': '''
+<i class="fa fa-users"></i>
+'''
+  '使用者':
+    'prefix': '使用者'
+    'body': '''
+<i class="fa fa-user-plus"></i>
+'''
+  '使用者':
+    'prefix': '使用者'
+    'body': '''
+<i class="fa fa-user-times"></i>
+'''
+  '使用者':
+    'prefix': '使用者'
+    'body': '''
+<i class="fa fa-user-secret"></i>
+'''
+  '使用者':
+    'prefix': '使用者'
+    'body': '''
+<i class="fa fa-user"></i>
+'''
+  '使用者':
+    'prefix': '使用者'
+    'body': '''
+<i class="fa fa-user-md"></i>
+'''
+
+  '信封':
+    'prefix': '信封'
+    'body': '''
+<i class="glyphicon glyphicon-envelope"></i>
+'''
+  '信封':
+    'prefix': '信封'
+    'body': '''
+<i class="fa fa-envelope-square"></i>
+'''
+  '信封':
+    'prefix': '信封'
+    'body': '''
+<i class="fa fa-envelope-o"></i>
+'''
+  '信封':
+    'prefix': '信封'
+    'body': '''
+<i class="fa fa-envelope"></i>
+'''
+
+  '信用卡':
+    'prefix': '信用卡'
+    'body': '''
+<i class="glyphicon glyphicon-credit-card"></i>
+'''
+  '信用卡':
+    'prefix': '信用卡'
+    'body': '''
+<i class="fa fa-cc-jcb"></i>
+'''
+  '信用卡':
+    'prefix': '信用卡'
+    'body': '''
+<i class="fa fa-cc-visa"></i>
+'''
+  '信用卡':
+    'prefix': '信用卡'
+    'body': '''
+<i class="fa fa-cc-discover"></i>
+'''
+  '信用卡':
+    'prefix': '信用卡'
+    'body': '''
+<i class="fa fa-cc-mastercard"></i>
+'''
+  '信用卡':
+    'prefix': '信用卡'
+    'body': '''
+<i class="fa fa-cc-paypal"></i>
+'''
+  '信用卡':
+    'prefix': '信用卡'
+    'body': '''
+<i class="fa fa-cc-amex"></i>
+'''
+  '信用卡':
+    'prefix': '信用卡'
+    'body': '''
+<i class="fa fa-credit-card"></i>
+'''
+
+  '停止':
+    'prefix': '停止'
+    'body': '''
+<i class="glyphicon glyphicon-stop"></i>
+'''
+  '停止':
+    'prefix': '停止'
+    'body': '''
+<i class="fa fa-stop"></i>
+'''
+
+  '傳真機':
+    'prefix': '傳真機'
+    'body': '''
+<i class="fa fa-fax"></i>
+'''
+
+  '儀表板':
+    'prefix': '儀表板'
+    'body': '''
+<i class="glyphicon glyphicon-dashboard"></i>
+'''
+  '儀表板':
+    'prefix': '儀表板'
+    'body': '''
+<i class="fa fa-tachometer"></i>
+'''
+
+  '儲存':
+    'prefix': '儲存'
+    'body': '''
+<i class="fa fa-floppy-o"></i>
+'''
+
+  '光碟':
+    'prefix': '光碟'
+    'body': '''
+<i class="glyphicon glyphicon-cd"></i>
+'''
+
+  '光碟片':
+    'prefix': '光碟片'
+    'body': '''
+<i class="glyphicon glyphicon-cd"></i>
+'''
+
+  '再一次':
+    'prefix': '再一次'
+    'body': '''
+<i class="glyphicon glyphicon-repeat"></i>
+'''
+  '再一次':
+    'prefix': '再一次'
+    'body': '''
+<i class="glyphicon glyphicon-refresh"></i>
+'''
+  '再一次':
+    'prefix': '再一次'
+    'body': '''
+<i class="fa fa-repeat"></i>
+'''
+  '再一次':
+    'prefix': '再一次'
+    'body': '''
+<i class="fa fa-refresh"></i>
+'''
+
+  '再播一次':
+    'prefix': '再播一次'
+    'body': '''
+<i class="glyphicon glyphicon-repeat"></i>
+'''
+  '再播一次':
+    'prefix': '再播一次'
+    'body': '''
+<i class="glyphicon glyphicon-refresh"></i>
+'''
+  '再播一次':
+    'prefix': '再播一次'
+    'body': '''
+<i class="fa fa-repeat"></i>
+'''
+  '再播一次':
+    'prefix': '再播一次'
+    'body': '''
+<i class="fa fa-refresh"></i>
+'''
+
+  '再放一次':
+    'prefix': '再放一次'
+    'body': '''
+<i class="glyphicon glyphicon-repeat"></i>
+'''
+  '再放一次':
+    'prefix': '再放一次'
+    'body': '''
+<i class="glyphicon glyphicon-refresh"></i>
+'''
+  '再放一次':
+    'prefix': '再放一次'
+    'body': '''
+<i class="fa fa-repeat"></i>
+'''
+  '再放一次':
+    'prefix': '再放一次'
+    'body': '''
+<i class="fa fa-refresh"></i>
+'''
+
+  '刀叉':
+    'prefix': '刀叉'
+    'body': '''
+<i class="glyphicon glyphicon-cutlery"></i>
+'''
+  '刀叉':
+    'prefix': '刀叉'
+    'body': '''
+<i class="fa fa-cutlery"></i>
+'''
+
+  '列印':
+    'prefix': '列印'
+    'body': '''
+<i class="glyphicon glyphicon-print"></i>
+'''
+
+  '刪除':
+    'prefix': '刪除'
+    'body': '''
+<i class="glyphicon glyphicon-remove-sign"></i>
+'''
+  '刪除':
+    'prefix': '刪除'
+    'body': '''
+<i class="glyphicon glyphicon-remove-circle"></i>
+'''
+  '刪除':
+    'prefix': '刪除'
+    'body': '''
+<i class="glyphicon glyphicon-remove"></i>
+'''
+  '刪除':
+    'prefix': '刪除'
+    'body': '''
+<i class="glyphicon glyphicon-trash"></i>
+'''
+  '刪除':
+    'prefix': '刪除'
+    'body': '''
+<i class="fa fa-times-circle"></i>
+'''
+  '刪除':
+    'prefix': '刪除'
+    'body': '''
+<i class="fa fa-times-circle-o"></i>
+'''
+  '刪除':
+    'prefix': '刪除'
+    'body': '''
+<i class="fa fa-times"></i>
+'''
+  '刪除':
+    'prefix': '刪除'
+    'body': '''
+<i class="fa fa-trash-o"></i>
+'''
+  '刪除':
+    'prefix': '刪除'
+    'body': '''
+<i class="fa fa-trash"></i>
+'''
+  '刪除':
+    'prefix': '刪除'
+    'body': '''
+<i class="fa fa-minus-circle"></i>
+'''
+  '刪除':
+    'prefix': '刪除'
+    'body': '''
+<i class="fa fa-minus-square"></i>
+'''
+  '刪除':
+    'prefix': '刪除'
+    'body': '''
+<i class="fa fa-minus-square-o"></i>
+'''
+  '刪除':
+    'prefix': '刪除'
+    'body': '''
+<i class="fa fa-minus"></i>
+'''
+
+  '刪除使用者':
+    'prefix': '刪除使用者'
+    'body': '''
+<i class="fa fa-user-times"></i>
+'''
+  '刪除使用者':
+    'prefix': '刪除使用者'
+    'body': '''
+<i class="fa fa-minus-circle"></i>
+'''
+  '刪除使用者':
+    'prefix': '刪除使用者'
+    'body': '''
+<i class="fa fa-minus-square"></i>
+'''
+  '刪除使用者':
+    'prefix': '刪除使用者'
+    'body': '''
+<i class="fa fa-minus-square-o"></i>
+'''
+  '刪除使用者':
+    'prefix': '刪除使用者'
+    'body': '''
+<i class="fa fa-minus"></i>
+'''
+
+  '剪下':
+    'prefix': '剪下'
+    'body': '''
+<i class="glyphicon glyphicon-scissors"></i>
+'''
+  '剪下':
+    'prefix': '剪下'
+    'body': '''
+<i class="fa fa-scissors"></i>
+'''
+  '剪下':
+    'prefix': '剪下'
+    'body': '''
+<i class="fa fa-hand-peace-o"></i>
+'''
+  '剪下':
+    'prefix': '剪下'
+    'body': '''
+<i class="fa fa-angellist"></i>
+'''
+  '剪下':
+    'prefix': '剪下'
+    'body': '''
+<i class="fa fa-hand-scissors-o"></i>
+'''
+
+  '剪刀':
+    'prefix': '剪刀'
+    'body': '''
+<i class="glyphicon glyphicon-scissors"></i>
+'''
+  '剪刀':
+    'prefix': '剪刀'
+    'body': '''
+<i class="fa fa-scissors"></i>
+'''
+  '剪刀':
+    'prefix': '剪刀'
+    'body': '''
+<i class="fa fa-hand-peace-o"></i>
+'''
+  '剪刀':
+    'prefix': '剪刀'
+    'body': '''
+<i class="fa fa-angellist"></i>
+'''
+  '剪刀':
+    'prefix': '剪刀'
+    'body': '''
+<i class="fa fa-hand-scissors-o"></i>
+'''
+
+  '加入我的最愛':
+    'prefix': '加入我的最愛'
+    'body': '''
+<i class="glyphicon glyphicon-heart"></i>
+'''
+  '加入我的最愛':
+    'prefix': '加入我的最愛'
+    'body': '''
+<i class="glyphicon glyphicon-heart-empty"></i>
+'''
+  '加入我的最愛':
+    'prefix': '加入我的最愛'
+    'body': '''
+<i class="glyphicon glyphicon-star"></i>
+'''
+  '加入我的最愛':
+    'prefix': '加入我的最愛'
+    'body': '''
+<i class="glyphicon glyphicon-star-empty"></i>
+'''
+  '加入我的最愛':
+    'prefix': '加入我的最愛'
+    'body': '''
+<i class="fa fa-heart"></i>
+'''
+  '加入我的最愛':
+    'prefix': '加入我的最愛'
+    'body': '''
+<i class="fa fa-heartbeat"></i>
+'''
+  '加入我的最愛':
+    'prefix': '加入我的最愛'
+    'body': '''
+<i class="fa fa-heart-o"></i>
+'''
+  '加入我的最愛':
+    'prefix': '加入我的最愛'
+    'body': '''
+<i class="fa fa-star"></i>
+'''
+  '加入我的最愛':
+    'prefix': '加入我的最愛'
+    'body': '''
+<i class="fa fa-star-o"></i>
+'''
+
+  '加入購物車':
+    'prefix': '加入購物車'
+    'body': '''
+<i class="fa fa-cart-plus"></i>
+'''
+
+  '加號':
+    'prefix': '加號'
+    'body': '''
+<i class="fa fa-plus-circle"></i>
+'''
+  '加號':
+    'prefix': '加號'
+    'body': '''
+<i class="fa fa-plus-square"></i>
+'''
+  '加號':
+    'prefix': '加號'
+    'body': '''
+<i class="fa fa-plus-square-o"></i>
+'''
+  '加號':
+    'prefix': '加號'
+    'body': '''
+<i class="fa fa-plus"></i>
+'''
+
+  '勾勾':
+    'prefix': '勾勾'
+    'body': '''
+<i class="glyphicon glyphicon-ok-sign"></i>
+'''
+  '勾勾':
+    'prefix': '勾勾'
+    'body': '''
+<i class="glyphicon glyphicon-ok-circle"></i>
+'''
+  '勾勾':
+    'prefix': '勾勾'
+    'body': '''
+<i class="glyphicon glyphicon-ok"></i>
+'''
+  '勾勾':
+    'prefix': '勾勾'
+    'body': '''
+<i class="fa fa-check-circle"></i>
+'''
+  '勾勾':
+    'prefix': '勾勾'
+    'body': '''
+<i class="fa fa-check-square"></i>
+'''
+  '勾勾':
+    'prefix': '勾勾'
+    'body': '''
+<i class="fa fa-check-circle-o"></i>
+'''
+  '勾勾':
+    'prefix': '勾勾'
+    'body': '''
+<i class="fa fa-check-square-o"></i>
+'''
+  '勾勾':
+    'prefix': '勾勾'
+    'body': '''
+<i class="fa fa-check"></i>
+'''
+
+  '印表機':
+    'prefix': '印表機'
+    'body': '''
+<i class="glyphicon glyphicon-print"></i>
+'''
+  '印表機':
+    'prefix': '印表機'
+    'body': '''
+<i class="fa fa-print"></i>
+'''
+
+  '即時通':
+    'prefix': '即時通'
+    'body': '''
+<i class="fa fa-qq"></i>
+'''
+  '即時通':
+    'prefix': '即時通'
+    'body': '''
+<i class="fa fa-skype"></i>
+'''
+  '即時通':
+    'prefix': '即時通'
+    'body': '''
+<i class="fa fa-weixin"></i>
+'''
+  '即時通':
+    'prefix': '即時通'
+    'body': '''
+<i class="fa fa-whatsapp"></i>
+'''
+
+  '即時通訊':
+    'prefix': '即時通訊'
+    'body': '''
+<i class="fa fa-qq"></i>
+'''
+  '即時通訊':
+    'prefix': '即時通訊'
+    'body': '''
+<i class="fa fa-skype"></i>
+'''
+  '即時通訊':
+    'prefix': '即時通訊'
+    'body': '''
+<i class="fa fa-weixin"></i>
+'''
+  '即時通訊':
+    'prefix': '即時通訊'
+    'body': '''
+<i class="fa fa-whatsapp"></i>
+'''
+
+  '原始碼':
+    'prefix': '原始碼'
+    'body': '''
+<i class="fa fa-code"></i>
+'''
+
+  '叉叉':
+    'prefix': '叉叉'
+    'body': '''
+<i class="glyphicon glyphicon-remove-sign"></i>
+'''
+  '叉叉':
+    'prefix': '叉叉'
+    'body': '''
+<i class="glyphicon glyphicon-remove-circle"></i>
+'''
+  '叉叉':
+    'prefix': '叉叉'
+    'body': '''
+<i class="glyphicon glyphicon-remove"></i>
+'''
+  '叉叉':
+    'prefix': '叉叉'
+    'body': '''
+<i class="fa fa-times-circle"></i>
+'''
+  '叉叉':
+    'prefix': '叉叉'
+    'body': '''
+<i class="fa fa-times-circle-o"></i>
+'''
+  '叉叉':
+    'prefix': '叉叉'
+    'body': '''
+<i class="fa fa-times"></i>
+'''
+
+  '取消連結':
+    'prefix': '取消連結'
+    'body': '''
+<i class="fa fa-chain-broken"></i>
+'''
+
+  '咖啡':
+    'prefix': '咖啡'
+    'body': '''
+<i class="fa fa-coffee"></i>
+'''
+
+  '咖啡杯':
+    'prefix': '咖啡杯'
+    'body': '''
+<i class="fa fa-coffee"></i>
+'''
+
+  '問號':
+    'prefix': '問號'
+    'body': '''
+<i class="glyphicon glyphicon-question-sign"></i>
+'''
+  '問號':
+    'prefix': '問號'
+    'body': '''
+<i class="fa fa-question-cicle"></i>
+'''
+  '問號':
+    'prefix': '問號'
+    'body': '''
+<i class="fa fa-question"></i>
+'''
+
+  '啤酒':
+    'prefix': '啤酒'
+    'body': '''
+<i class="fa fa-beer"></i>
+'''
+
+  '啤酒杯':
+    'prefix': '啤酒杯'
+    'body': '''
+<i class="fa fa-beer"></i>
+'''
+
+  '喇叭':
+    'prefix': '喇叭'
+    'body': '''
+<i class="glyphicon glyphicon-volume-up"></i>
+'''
+  '喇叭':
+    'prefix': '喇叭'
+    'body': '''
+<i class="glyphicon glyphicon-volume-down"></i>
+'''
+  '喇叭':
+    'prefix': '喇叭'
+    'body': '''
+<i class="glyphicon glyphicon-volume-off"></i>
+'''
+  '喇叭':
+    'prefix': '喇叭'
+    'body': '''
+<i class="fa fa-bullhorn"></i>
+'''
+  '喇叭':
+    'prefix': '喇叭'
+    'body': '''
+<i class="fa fa-volume-up"></i>
+'''
+  '喇叭':
+    'prefix': '喇叭'
+    'body': '''
+<i class="fa fa-volume-down"></i>
+'''
+  '喇叭':
+    'prefix': '喇叭'
+    'body': '''
+<i class="fa fa-volume-off"></i>
+'''
+
+  '圖片':
+    'prefix': '圖片'
+    'body': '''
+<i class="glyphicon glyphicon-picture"></i>
+'''
+  '圖片':
+    'prefix': '圖片'
+    'body': '''
+<i class="fa fa-picture-o"></i>
+'''
+
+  '圖表':
+    'prefix': '圖表'
+    'body': '''
+<i class="fa fa-pie-chart"></i>
+'''
+  '圖表':
+    'prefix': '圖表'
+    'body': '''
+<i class="fa fa-area-chart"></i>
+'''
+  '圖表':
+    'prefix': '圖表'
+    'body': '''
+<i class="fa fa-chart"></i>
+'''
+  '圖表':
+    'prefix': '圖表'
+    'body': '''
+<i class="fa fa-bar-chart"></i>
+'''
+
+  '圖釘':
+    'prefix': '圖釘'
+    'body': '''
+<i class="glyphicon glyphicon-pushpin"></i>
+'''
+  '圖釘':
+    'prefix': '圖釘'
+    'body': '''
+<i class="fa fa-thumb-tack"></i>
+'''
+
+  '地下鐵':
+    'prefix': '地下鐵'
+    'body': '''
+<i class="fa fa-subway"></i>
+'''
+  '地下鐵':
+    'prefix': '地下鐵'
+    'body': '''
+<i class="fa fa-train"></i>
+'''
+
+  '地圖':
+    'prefix': '地圖'
+    'body': '''
+<i class="glyphicon glyphicon-map-marker"></i>
+'''
+  '地圖':
+    'prefix': '地圖'
+    'body': '''
+<i class="fa fa-street-view"></i>
+'''
+  '地圖':
+    'prefix': '地圖'
+    'body': '''
+<i class="fa fa-map-marker"></i>
+'''
+  '地圖':
+    'prefix': '地圖'
+    'body': '''
+<i class="fa fa-map"></i>
+'''
+  '地圖':
+    'prefix': '地圖'
+    'body': '''
+<i class="fa fa-map-o"></i>
+'''
+
+  '地球':
+    'prefix': '地球'
+    'body': '''
+<i class="glyphicon glyphicon-globe"></i>
+'''
+  '地球':
+    'prefix': '地球'
+    'body': '''
+<i class="fa fa-globe"></i>
+'''
+
+  '垃圾桶':
+    'prefix': '垃圾桶'
+    'body': '''
+<i class="glyphicon glyphicon-trash"></i>
+'''
+  '垃圾桶':
+    'prefix': '垃圾桶'
+    'body': '''
+<i class="fa fa-trash-o"></i>
+'''
+  '垃圾桶':
+    'prefix': '垃圾桶'
+    'body': '''
+<i class="fa fa-trash"></i>
+'''
+
+  '報紙':
+    'prefix': '報紙'
+    'body': '''
+<i class="fa fa-newspaper-o"></i>
+'''
+
+  '增加':
+    'prefix': '增加'
+    'body': '''
+<i class="fa fa-user-plus"></i>
+'''
+  '增加':
+    'prefix': '增加'
+    'body': '''
+<i class="fa fa-plus-circle"></i>
+'''
+  '增加':
+    'prefix': '增加'
+    'body': '''
+<i class="fa fa-plus-square"></i>
+'''
+  '增加':
+    'prefix': '增加'
+    'body': '''
+<i class="fa fa-plus-square-o"></i>
+'''
+  '增加':
+    'prefix': '增加'
+    'body': '''
+<i class="fa fa-plus"></i>
+'''
+
+  '增加使用者':
+    'prefix': '增加使用者'
+    'body': '''
+<i class="fa fa-user-plus"></i>
+'''
+
+  '增加音量':
+    'prefix': '增加音量'
+    'body': '''
+<i class="fa fa-plus"></i>
+'''
+  '增加音量':
+    'prefix': '增加音量'
+    'body': '''
+<i class="fa fa-volume-up"></i>
+'''
+
+  '大眾運輸':
+    'prefix': '大眾運輸'
+    'body': '''
+<i class="fa fa-bus"></i>
+'''
+  '大眾運輸':
+    'prefix': '大眾運輸'
+    'body': '''
+<i class="fa fa-subway"></i>
+'''
+  '大眾運輸':
+    'prefix': '大眾運輸'
+    'body': '''
+<i class="fa fa-train"></i>
+'''
+  '大眾運輸':
+    'prefix': '大眾運輸'
+    'body': '''
+<i class="fa fa-taxi"></i>
+'''
+
+  '大聲':
+    'prefix': '大聲'
+    'body': '''
+<i class="glyphicon glyphicon-volume-up"></i>
+'''
+  '大聲':
+    'prefix': '大聲'
+    'body': '''
+<i class="fa fa-bullhorn"></i>
+'''
+  '大聲':
+    'prefix': '大聲'
+    'body': '''
+<i class="fa fa-volume-up"></i>
+'''
+
+  '大聲公':
+    'prefix': '大聲公'
+    'body': '''
+<i class="fa fa-bullhorn"></i>
+'''
+
+  '太空梭':
+    'prefix': '太空梭'
+    'body': '''
+<i class="fa fa-space-shuttle"></i>
+'''
+
+  '存檔':
+    'prefix': '存檔'
+    'body': '''
+<i class="fa fa-floppy-o"></i>
+'''
+
+  '存錢筒':
+    'prefix': '存錢筒'
+    'body': '''
+<i class="glyphicon glyphicon-piggy-bank"></i>
+'''
+
+  '完成':
+    'prefix': '完成'
+    'body': '''
+<i class="glyphicon glyphicon-ok-sign"></i>
+'''
+  '完成':
+    'prefix': '完成'
+    'body': '''
+<i class="glyphicon glyphicon-ok-circle"></i>
+'''
+  '完成':
+    'prefix': '完成'
+    'body': '''
+<i class="glyphicon glyphicon-ok"></i>
+'''
+  '完成':
+    'prefix': '完成'
+    'body': '''
+<i class="fa fa-check-circle"></i>
+'''
+  '完成':
+    'prefix': '完成'
+    'body': '''
+<i class="fa fa-check-square"></i>
+'''
+  '完成':
+    'prefix': '完成'
+    'body': '''
+<i class="fa fa-check-circle-o"></i>
+'''
+  '完成':
+    'prefix': '完成'
+    'body': '''
+<i class="fa fa-check-square-o"></i>
+'''
+  '完成':
+    'prefix': '完成'
+    'body': '''
+<i class="fa fa-check"></i>
+'''
+
+  '客機':
+    'prefix': '客機'
+    'body': '''
+<i class="fa fa-plane"></i>
+'''
+
+  '寶石':
+    'prefix': '寶石'
+    'body': '''
+<i class="fa fa-diamond"></i>
+'''
+
+  '對話':
+    'prefix': '對話'
+    'body': '''
+<i class="glyphicon glyphicon-comment"></i>
+'''
+  '對話':
+    'prefix': '對話'
+    'body': '''
+<i class="fa fa-comments-o"></i>
+'''
+  '對話':
+    'prefix': '對話'
+    'body': '''
+<i class="fa fa-comments"></i>
+'''
+  '對話':
+    'prefix': '對話'
+    'body': '''
+<i class="fa fa-commenting"></i>
+'''
+  '對話':
+    'prefix': '對話'
+    'body': '''
+<i class="fa fa-comment"></i>
+'''
+  '對話':
+    'prefix': '對話'
+    'body': '''
+<i class="fa fa-commenting-o"></i>
+'''
+  '對話':
+    'prefix': '對話'
+    'body': '''
+<i class="fa fa-comment-o"></i>
+'''
+
+  '對話框':
+    'prefix': '對話框'
+    'body': '''
+<i class="glyphicon glyphicon-comment"></i>
+'''
+  '對話框':
+    'prefix': '對話框'
+    'body': '''
+<i class="fa fa-comments-o"></i>
+'''
+  '對話框':
+    'prefix': '對話框'
+    'body': '''
+<i class="fa fa-comments"></i>
+'''
+  '對話框':
+    'prefix': '對話框'
+    'body': '''
+<i class="fa fa-commenting"></i>
+'''
+  '對話框':
+    'prefix': '對話框'
+    'body': '''
+<i class="fa fa-comment"></i>
+'''
+  '對話框':
+    'prefix': '對話框'
+    'body': '''
+<i class="fa fa-commenting-o"></i>
+'''
+  '對話框':
+    'prefix': '對話框'
+    'body': '''
+<i class="fa fa-comment-o"></i>
+'''
+
+  '小聲':
+    'prefix': '小聲'
+    'body': '''
+<i class="glyphicon glyphicon-volume-down"></i>
+'''
+  '小聲':
+    'prefix': '小聲'
+    'body': '''
+<i class="fa fa-volume-down"></i>
+'''
+
+  '小豬':
+    'prefix': '小豬'
+    'body': '''
+<i class="glyphicon glyphicon-piggy-bank"></i>
+'''
+
+  '展開':
+    'prefix': '展開'
+    'body': '''
+<i class="fa fa-plus-circle"></i>
+'''
+  '展開':
+    'prefix': '展開'
+    'body': '''
+<i class="fa fa-plus-square"></i>
+'''
+  '展開':
+    'prefix': '展開'
+    'body': '''
+<i class="fa fa-plus-square-o"></i>
+'''
+  '展開':
+    'prefix': '展開'
+    'body': '''
+<i class="fa fa-plus"></i>
+'''
+
+  '工具':
+    'prefix': '工具'
+    'body': '''
+<i class="glyphicon glyphicon-scissors"></i>
+'''
+  '工具':
+    'prefix': '工具'
+    'body': '''
+<i class="glyphicon glyphicon-trash"></i>
+'''
+  '工具':
+    'prefix': '工具'
+    'body': '''
+<i class="glyphicon glyphicon-pushpin"></i>
+'''
+  '工具':
+    'prefix': '工具'
+    'body': '''
+<i class="glyphicon glyphicon-wrench"></i>
+'''
+  '文具':
+    'prefix': '文具'
+    'body': '''
+<i class="fa fa-eraser"></i>
+'''
+
+  '巴士':
+    'prefix': '巴士'
+    'body': '''
+<i class="fa fa-bus"></i>
+'''
+
+  '平板':
+    'prefix': '平板'
+    'body': '''
+<i class="fa fa-tablet"></i>
+'''
+
+  '平板電腦':
+    'prefix': '平板電腦'
+    'body': '''
+<i class="fa fa-tablet"></i>
+'''
+
+  '影片':
+    'prefix': '影片'
+    'body': '''
+<i class="glyphicon glyphicon-stop"></i>
+'''
+  '影片':
+    'prefix': '影片'
+    'body': '''
+<i class="glyphicon glyphicon-film"></i>
+'''
+  '影片':
+    'prefix': '影片'
+    'body': '''
+<i class="glyphicon glyphicon-play-circle"></i>
+'''
+  '影片':
+    'prefix': '影片'
+    'body': '''
+<i class="glyphicon glyphicon-pause"></i>
+'''
+  '影片':
+    'prefix': '影片'
+    'body': '''
+<i class="glyphicon glyphicon-eject"></i>
+'''
+  '影片':
+    'prefix': '影片'
+    'body': '''
+<i class="glyphicon glyphicon-repeat"></i>
+'''
+  '影片':
+    'prefix': '影片'
+    'body': '''
+<i class="glyphicon glyphicon-refresh"></i>
+'''
+  '影片':
+    'prefix': '影片'
+    'body': '''
+<i class="fa fa-youtube-square"></i>
+'''
+  '影片':
+    'prefix': '影片'
+    'body': '''
+<i class="fa fa-youtube-play"></i>
+'''
+  '影片':
+    'prefix': '影片'
+    'body': '''
+<i class="fa fa-youtube"></i>
+'''
+  '影片':
+    'prefix': '影片'
+    'body': '''
+<i class="fa fa-stop"></i>
+'''
+  '影片':
+    'prefix': '影片'
+    'body': '''
+<i class="fa fa-refresh"></i>
+'''
+  '影片':
+    'prefix': '影片'
+    'body': '''
+<i class="fa fa-vimeo"></i>
+'''
+  '影片':
+    'prefix': '影片'
+    'body': '''
+<i class="fa fa-vimeo"></i>
+'''
+  '影片':
+    'prefix': '影片'
+    'body': '''
+<i class="fa fa-film"></i>
+'''
+  '影片':
+    'prefix': '影片'
+    'body': '''
+<i class="fa fa-play"></i>
+'''
+  '影片':
+    'prefix': '影片'
+    'body': '''
+<i class="fa fa-play-circle"></i>
+'''
+  '影片':
+    'prefix': '影片'
+    'body': '''
+<i class="fa fa-play-circle-o"></i>
+'''
+  '影片':
+    'prefix': '影片'
+    'body': '''
+<i class="fa fa-pause"></i>
+'''
+  '影片':
+    'prefix': '影片'
+    'body': '''
+<i class="fa fa-eject"></i>
+'''
+  '影片':
+    'prefix': '影片'
+    'body': '''
+<i class="fa fa-repeat"></i>
+'''
+  '影片':
+    'prefix': '影片'
+    'body': '''
+<i class="fa fa-refresh"></i>
+'''
+
+  '愛心':
+    'prefix': '愛心'
+    'body': '''
+<i class="glyphicon glyphicon-heart"></i>
+'''
+  '愛心':
+    'prefix': '愛心'
+    'body': '''
+<i class="glyphicon glyphicon-heart-empty"></i>
+'''
+  '愛心':
+    'prefix': '愛心'
+    'body': '''
+<i class="fa fa-heart"></i>
+'''
+  '愛心':
+    'prefix': '愛心'
+    'body': '''
+<i class="fa fa-gratipay"></i>
+'''
+  '愛心':
+    'prefix': '愛心'
+    'body': '''
+<i class="fa fa-heartbeat"></i>
+'''
+  '愛心':
+    'prefix': '愛心'
+    'body': '''
+<i class="fa fa-heart-o"></i>
+'''
+
+  '我的最愛':
+    'prefix': '我的最愛'
+    'body': '''
+<i class="glyphicon glyphicon-heart"></i>
+'''
+  '我的最愛':
+    'prefix': '我的最愛'
+    'body': '''
+<i class="glyphicon glyphicon-heart-empty"></i>
+'''
+  '我的最愛':
+    'prefix': '我的最愛'
+    'body': '''
+<i class="glyphicon glyphicon-star"></i>
+'''
+  '我的最愛':
+    'prefix': '我的最愛'
+    'body': '''
+<i class="glyphicon glyphicon-star-empty"></i>
+'''
+  '我的最愛':
+    'prefix': '我的最愛'
+    'body': '''
+<i class="fa fa-heart"></i>
+'''
+  '我的最愛':
+    'prefix': '我的最愛'
+    'body': '''
+<i class="fa fa-heartbeat"></i>
+'''
+  '我的最愛':
+    'prefix': '我的最愛'
+    'body': '''
+<i class="fa fa-heart-o"></i>
+'''
+  '我的最愛':
+    'prefix': '我的最愛'
+    'body': '''
+<i class="fa fa-star"></i>
+'''
+  '我的最愛':
+    'prefix': '我的最愛'
+    'body': '''
+<i class="fa fa-star-o"></i>
+'''
+
+  '戰鬥機':
+    'prefix': '戰鬥機'
+    'body': '''
+<i class="fa fa-fighter-jet"></i>
+'''
+
+  '房子':
+    'prefix': '房子'
+    'body': '''
+<i class="glyphicon glyphicon-home"></i>
+'''
+  '房子':
+    'prefix': '房子'
+    'body': '''
+<i class="fa fa-building"></i>
+'''
+  '房子':
+    'prefix': '房子'
+    'body': '''
+<i class="fa fa-building-o"></i>
+'''
+  '房子':
+    'prefix': '房子'
+    'body': '''
+<i class="fa fa-home"></i>
+'''
+
+  '手勢':
+    'prefix': '手勢'
+    'body': '''
+<i class="fa fa-thumbs-down"></i>
+'''
+  '手勢':
+    'prefix': '手勢'
+    'body': '''
+<i class="fa fa-thumbs-o-down"></i>
+'''
+  '手勢':
+    'prefix': '手勢'
+    'body': '''
+<i class="fa fa-hand-peace-o"></i>
+'''
+  '手勢':
+    'prefix': '手勢'
+    'body': '''
+<i class="fa fa-angellist"></i>
+'''
+  '手勢':
+    'prefix': '手勢'
+    'body': '''
+<i class="fa fa-hand-scissors-o"></i>
+'''
+  '手勢':
+    'prefix': '手勢'
+    'body': '''
+<i class="fa fa-hand-spock-o"></i>
+'''
+  '手勢':
+    'prefix': '手勢'
+    'body': '''
+<i class="fa fa-hand-paper-o"></i>
+'''
+  '手勢':
+    'prefix': '手勢'
+    'body': '''
+<i class="fa fa-hand-lizard-o"></i>
+'''
+  '手勢':
+    'prefix': '手勢'
+    'body': '''
+<i class="fa fa-hand-rock-o"></i>
+'''
+  '手勢':
+    'prefix': '手勢'
+    'body': '''
+<i class="fa fa-thumbs-up"></i>
+'''
+  '手勢':
+    'prefix': '手勢'
+    'body': '''
+<i class="fa fa-thumbs-o-up"></i>
+'''
+  '手勢':
+    'prefix': '手勢'
+    'body': '''
+<i class="fa fa-hand-pointer-o"></i>
+'''
+  '手勢':
+    'prefix': '手勢'
+    'body': '''
+<i class="fa fa-hand-o-up"></i>
+'''
+  '手勢':
+    'prefix': '手勢'
+    'body': '''
+<i class="fa fa-hand-o-down"></i>
+'''
+  '手勢':
+    'prefix': '手勢'
+    'body': '''
+<i class="fa fa-hand-o-right"></i>
+'''
+  '手勢':
+    'prefix': '手勢'
+    'body': '''
+<i class="fa fa-hand-o-left"></i>
+'''
+
+  '手機':
+    'prefix': '手機'
+    'body': '''
+<i class="fa fa-mobile"></i>
+'''
+
+  '打勾':
+    'prefix': '打勾'
+    'body': '''
+<i class="glyphicon glyphicon-ok-sign"></i>
+'''
+  '打勾':
+    'prefix': '打勾'
+    'body': '''
+<i class="glyphicon glyphicon-ok-circle"></i>
+'''
+  '打勾':
+    'prefix': '打勾'
+    'body': '''
+<i class="glyphicon glyphicon-ok"></i>
+'''
+  '打勾':
+    'prefix': '打勾'
+    'body': '''
+<i class="fa fa-check-circle"></i>
+'''
+  '打勾':
+    'prefix': '打勾'
+    'body': '''
+<i class="fa fa-check-square"></i>
+'''
+  '打勾':
+    'prefix': '打勾'
+    'body': '''
+<i class="fa fa-check-circle-o"></i>
+'''
+  '打勾':
+    'prefix': '打勾'
+    'body': '''
+<i class="fa fa-check-square-o"></i>
+'''
+  '打勾':
+    'prefix': '打勾'
+    'body': '''
+<i class="fa fa-check"></i>
+'''
+
+  '拷貝':
+    'prefix': '拷貝'
+    'body': '''
+<i class="fa fa-files-o"></i>
+'''
+
+  '拼圖':
+    'prefix': '拼圖'
+    'body': '''
+<i class="fa fa-puzzle-piece"></i>
+'''
+
+  '排序':
+    'prefix': '排序'
+    'body': '''
+<i class="fa fa-sort-numeric-asc"></i>
+'''
+  '排序':
+    'prefix': '排序'
+    'body': '''
+<i class="fa fa-sort-alpha-asc"></i>
+'''
+  '排序':
+    'prefix': '排序'
+    'body': '''
+<i class="fa fa-sort-amount-asc"></i>
+'''
+  '排序':
+    'prefix': '排序'
+    'body': '''
+<i class="fa fa-sort-numeric-desc"></i>
+'''
+  '排序':
+    'prefix': '排序'
+    'body': '''
+<i class="fa fa-sort-alpha-desc"></i>
+'''
+  '排序':
+    'prefix': '排序'
+    'body': '''
+<i class="fa fa-sort-amount-desc"></i>
+'''
+
+  '搜尋':
+    'prefix': '搜尋'
+    'body': '''
+<i class="glyphicon glyphicon-zoom-in"></i>
+'''
+  '搜尋':
+    'prefix': '搜尋'
+    'body': '''
+<i class="glyphicon glyphicon-zoom-out"></i>
+'''
+  '搜尋':
+    'prefix': '搜尋'
+    'body': '''
+<i class="glyphicon glyphicon-search"></i>
+'''
+  '搜尋':
+    'prefix': '搜尋'
+    'body': '''
+<i class="fa fa-search"></i>
+'''
+  '搜尋':
+    'prefix': '搜尋'
+    'body': '''
+<i class="fa fa-binoculars"></i>
+'''
+
+  '播放':
+    'prefix': '播放'
+    'body': '''
+<i class="glyphicon glyphicon-stop"></i>
+'''
+  '播放':
+    'prefix': '播放'
+    'body': '''
+<i class="glyphicon glyphicon-film"></i>
+'''
+  '播放':
+    'prefix': '播放'
+    'body': '''
+<i class="glyphicon glyphicon-play-circle"></i>
+'''
+  '播放':
+    'prefix': '播放'
+    'body': '''
+<i class="glyphicon glyphicon-pause"></i>
+'''
+  '播放':
+    'prefix': '播放'
+    'body': '''
+<i class="glyphicon glyphicon-eject"></i>
+'''
+  '播放':
+    'prefix': '播放'
+    'body': '''
+<i class="glyphicon glyphicon-repeat"></i>
+'''
+  '播放':
+    'prefix': '播放'
+    'body': '''
+<i class="glyphicon glyphicon-refresh"></i>
+'''
+  '播放':
+    'prefix': '播放'
+    'body': '''
+<i class="fa fa-stop"></i>
+'''
+  '播放':
+    'prefix': '播放'
+    'body': '''
+<i class="fa fa-refresh"></i>
+'''
+  '播放':
+    'prefix': '播放'
+    'body': '''
+<i class="fa fa-play"></i>
+'''
+  '播放':
+    'prefix': '播放'
+    'body': '''
+<i class="fa fa-play-circle"></i>
+'''
+  '播放':
+    'prefix': '播放'
+    'body': '''
+<i class="fa fa-play-circle-o"></i>
+'''
+  '播放':
+    'prefix': '播放'
+    'body': '''
+<i class="fa fa-pause"></i>
+'''
+  '播放':
+    'prefix': '播放'
+    'body': '''
+<i class="fa fa-eject"></i>
+'''
+  '播放':
+    'prefix': '播放'
+    'body': '''
+<i class="fa fa-repeat"></i>
+'''
+
+  '播放影片':
+    'prefix': '播放影片'
+    'body': '''
+<i class="glyphicon glyphicon-stop"></i>
+'''
+  '播放影片':
+    'prefix': '播放影片'
+    'body': '''
+<i class="glyphicon glyphicon-film"></i>
+'''
+  '播放影片':
+    'prefix': '播放影片'
+    'body': '''
+<i class="glyphicon glyphicon-play-circle"></i>
+'''
+  '播放影片':
+    'prefix': '播放影片'
+    'body': '''
+<i class="glyphicon glyphicon-pause"></i>
+'''
+  '播放影片':
+    'prefix': '播放影片'
+    'body': '''
+<i class="glyphicon glyphicon-eject"></i>
+'''
+  '播放影片':
+    'prefix': '播放影片'
+    'body': '''
+<i class="glyphicon glyphicon-repeat"></i>
+'''
+  '播放影片':
+    'prefix': '播放影片'
+    'body': '''
+<i class="glyphicon glyphicon-refresh"></i>
+'''
+  '播放影片':
+    'prefix': '播放影片'
+    'body': '''
+<i class="fa fa-stop"></i>
+'''
+  '播放影片':
+    'prefix': '播放影片'
+    'body': '''
+<i class="fa fa-refresh"></i>
+'''
+  '播放影片':
+    'prefix': '播放影片'
+    'body': '''
+<i class="fa fa-play"></i>
+'''
+  '播放影片':
+    'prefix': '播放影片'
+    'body': '''
+<i class="fa fa-play-circle"></i>
+'''
+  '播放影片':
+    'prefix': '播放影片'
+    'body': '''
+<i class="fa fa-play-circle-o"></i>
+'''
+  '播放影片':
+    'prefix': '播放影片'
+    'body': '''
+<i class="fa fa-pause"></i>
+'''
+  '播放影片':
+    'prefix': '播放影片'
+    'body': '''
+<i class="fa fa-eject"></i>
+'''
+  '播放影片':
+    'prefix': '播放影片'
+    'body': '''
+<i class="fa fa-repeat"></i>
+'''
+
+  '撲滿':
+    'prefix': '撲滿'
+    'body': '''
+<i class="glyphicon glyphicon-piggy-bank"></i>
+'''
+
+  '收合':
+    'prefix': '收合'
+    'body': '''
+<i class="fa fa-minus-circle"></i>
+'''
+  '收合':
+    'prefix': '收合'
+    'body': '''
+<i class="fa fa-minus-square"></i>
+'''
+  '收合':
+    'prefix': '收合'
+    'body': '''
+<i class="fa fa-minus-square-o"></i>
+'''
+  '收合':
+    'prefix': '收合'
+    'body': '''
+<i class="fa fa-minus"></i>
+'''
+
+  '放大':
+    'prefix': '放大'
+    'body': '''
+<i class="glyphicon glyphicon-zoom-in"></i>
+'''
+  '放大':
+    'prefix': '放大'
+    'body': '''
+<i class="fa fa-search-plus"></i>
+'''
+
+  '放大鏡':
+    'prefix': '放大鏡'
+    'body': '''
+<i class="glyphicon glyphicon-zoom-in"></i>
+'''
+  '放大鏡':
+    'prefix': '放大鏡'
+    'body': '''
+<i class="glyphicon glyphicon-zoom-out"></i>
+'''
+  '放大鏡':
+    'prefix': '放大鏡'
+    'body': '''
+<i class="glyphicon glyphicon-search"></i>
+'''
+  '放大鏡':
+    'prefix': '放大鏡'
+    'body': '''
+<i class="fa fa-search-plus"></i>
+'''
+  '放大鏡':
+    'prefix': '放大鏡'
+    'body': '''
+<i class="fa fa-search-minus"></i>
+'''
+  '放大鏡':
+    'prefix': '放大鏡'
+    'body': '''
+<i class="fa fa-search"></i>
+'''
+
+  '教學':
+    'prefix': '教學'
+    'body': '''
+<i class="glyphicon glyphicon-blackboard"></i>
+'''
+
+  '文件':
+    'prefix': '文件'
+    'body': '''
+<i class="glyphicon glyphicon-duplicate"></i>
+'''
+  '文件':
+    'prefix': '文件'
+    'body': '''
+<i class="glyphicon glyphicon-save-file"></i>
+'''
+  '文件':
+    'prefix': '文件'
+    'body': '''
+<i class="glyphicon glyphicon-open-file"></i>
+'''
+  '文件':
+    'prefix': '文件'
+    'body': '''
+<i class="glyphicon glyphicon-save-file"></i>
+'''
+  '文件':
+    'prefix': '文件'
+    'body': '''
+<i class="glyphicon glyphicon-file"></i>
+'''
+  '文件':
+    'prefix': '文件'
+    'body': '''
+<i class="glyphicon glyphicon-level-up"></i>
+'''
+  '文件':
+    'prefix': '文件'
+    'body': '''
+<i class="fa fa-files-o"></i>
+'''
+  '文件':
+    'prefix': '文件'
+    'body': '''
+<i class="fa fa-file"></i>
+'''
+  '文件':
+    'prefix': '文件'
+    'body': '''
+<i class="fa fa-file-excel-o"></i>
+'''
+  '文件':
+    'prefix': '文件'
+    'body': '''
+<i class="fa fa-file-pdf-o"></i>
+'''
+  '文件':
+    'prefix': '文件'
+    'body': '''
+<i class="fa fa-file-powerpoint-o"></i>
+'''
+  '文件':
+    'prefix': '文件'
+    'body': '''
+<i class="fa fa-file-text-o"></i>
+'''
+  '文件':
+    'prefix': '文件'
+    'body': '''
+<i class="fa fa-file-text"></i>
+'''
+  '文件':
+    'prefix': '文件'
+    'body': '''
+<i class="fa fa-file-word-o"></i>
+'''
+  '文件':
+    'prefix': '文件'
+    'body': '''
+<i class="fa fa-file-code-o"></i>
+'''
+  '文件':
+    'prefix': '文件'
+    'body': '''
+<i class="fa fa-file-image-o"></i>
+'''
+  '文件':
+    'prefix': '文件'
+    'body': '''
+<i class="fa fa-file-archive-o"></i>
+'''
+  '文件':
+    'prefix': '文件'
+    'body': '''
+<i class="fa fa-file-video-o"></i>
+'''
+  '文件':
+    'prefix': '文件'
+    'body': '''
+<i class="fa fa-file-audio-o"></i>
+'''
+  '文件':
+    'prefix': '文件'
+    'body': '''
+<i class="fa fa-file-o"></i>
+'''
+
+  '文具':
+    'prefix': '文具'
+    'body': '''
+<i class="glyphicon glyphicon-scissors"></i>
+'''
+  '文具':
+    'prefix': '文具'
+    'body': '''
+<i class="glyphicon glyphicon-pushpin"></i>
+'''
+  '文具':
+    'prefix': '文具'
+    'body': '''
+<i class="glyphicon glyphicon-book"></i>
+'''
+  '文具':
+    'prefix': '文具'
+    'body': '''
+<i class="glyphicon glyphicon-bookmark"></i>
+'''
+
+  '新增':
+    'prefix': '新增'
+    'body': '''
+<i class="fa fa-plus-circle"></i>
+'''
+  '新增':
+    'prefix': '新增'
+    'body': '''
+<i class="fa fa-plus-square"></i>
+'''
+  '新增':
+    'prefix': '新增'
+    'body': '''
+<i class="fa fa-plus-square-o"></i>
+'''
+  '新增':
+    'prefix': '新增'
+    'body': '''
+<i class="fa fa-plus"></i>
+'''
+
+  '斷開牽連':
+    'prefix': '斷開牽連'
+    'body': '''
+<i class="fa fa-chain-broken"></i>
+'''
+
+  '斷開連結':
+    'prefix': '斷開連結'
+    'body': '''
+<i class="fa fa-chain-broken"></i>
+'''
+
+  '斷開鎖鏈':
+    'prefix': '斷開鎖鏈'
+    'body': '''
+<i class="fa fa-chain-broken"></i>
+'''
+
+  '星星':
+    'prefix': '星星'
+    'body': '''
+<i class="glyphicon glyphicon-star"></i>
+'''
+  '星星':
+    'prefix': '星星'
+    'body': '''
+<i class="glyphicon glyphicon-star-empty"></i>
+'''
+  '星星':
+    'prefix': '星星'
+    'body': '''
+<i class="fa fa-star-half"></i>
+'''
+  '星星':
+    'prefix': '星星'
+    'body': '''
+<i class="fa fa-star"></i>
+'''
+  '星星':
+    'prefix': '星星'
+    'body': '''
+<i class="fa fa-star-half-o"></i>
+'''
+  '星星':
+    'prefix': '星星'
+    'body': '''
+<i class="fa fa-star-o"></i>
+'''
+
+  '時鐘':
+    'prefix': '時鐘'
+    'body': '''
+<i class="glyphicon glyphicon-time"></i>
+'''
+  '時鐘':
+    'prefix': '時鐘'
+    'body': '''
+<i class="fa fa-clock-o"></i>
+'''
+
+  '時間':
+    'prefix': '時間'
+    'body': '''
+<i class="glyphicon glyphicon-time"></i>
+'''
+  '時間':
+    'prefix': '時間'
+    'body': '''
+<i class="fa fa-clock-o"></i>
+'''
+
+  '書':
+    'prefix': '書'
+    'body': '''
+<i class="glyphicon glyphicon-book"></i>
+'''
+  '書':
+    'prefix': '書'
+    'body': '''
+<i class="fa fa-book"></i>
+'''
+
+  '書本':
+    'prefix': '書本'
+    'body': '''
+<i class="glyphicon glyphicon-book"></i>
+'''
+  '書本':
+    'prefix': '書本'
+    'body': '''
+<i class="fa fa-book"></i>
+'''
+
+  '書籤':
+    'prefix': '書籤'
+    'body': '''
+<i class="glyphicon glyphicon-bookmark"></i>
+'''
+  '書籤':
+    'prefix': '書籤'
+    'body': '''
+<i class="fa fa-bookmark"></i>
+'''
+  '書籤':
+    'prefix': '書籤'
+    'body': '''
+<i class="fa fa-bookmark-o"></i>
+'''
+
+  '最新消息':
+    'prefix': '最新消息'
+    'body': '''
+<i class="fa fa-newspaper-o"></i>
+'''
+
+  '月曆':
+    'prefix': '月曆'
+    'body': '''
+<i class="glyphicon glyphicon-calendar"></i>
+'''
+  '月曆':
+    'prefix': '月曆'
+    'body': '''
+<i class="fa fa-calendar"></i>
+'''
+  '月曆':
+    'prefix': '月曆'
+    'body': '''
+<i class="fa fa-calendar-o"></i>
+'''
+  '月曆':
+    'prefix': '月曆'
+    'body': '''
+<i class="fa fa-calendar-check-o"></i>
+'''
+  '月曆':
+    'prefix': '月曆'
+    'body': '''
+<i class="fa fa-calendar-plus-o"></i>
+'''
+  '月曆':
+    'prefix': '月曆'
+    'body': '''
+<i class="fa fa-calendar-times-o"></i>
+'''
+  '月曆':
+    'prefix': '月曆'
+    'body': '''
+<i class="fa fa-calendar-minus-o"></i>
+'''
+
+  '望遠鏡':
+    'prefix': '望遠鏡'
+    'body': '''
+<i class="fa fa-binoculars"></i>
+'''
+
+  '杯子':
+    'prefix': '杯子'
+    'body': '''
+<i class="glyphicon glyphicon-glass"></i>
+'''
+  '杯子':
+    'prefix': '杯子'
+    'body': '''
+<i class="fa fa-coffee"></i>
+'''
+  '杯子':
+    'prefix': '杯子'
+    'body': '''
+<i class="fa fa-beer"></i>
+'''
+  '杯子':
+    'prefix': '杯子'
+    'body': '''
+<i class="fa fa-glass"></i>
+'''
+
+  '板手':
+    'prefix': '板手'
+    'body': '''
+<i class="glyphicon glyphicon-wrench"></i>
+'''
+  '板手':
+    'prefix': '板手'
+    'body': '''
+<i class="fa fa-wrench"></i>
+'''
+
+  '枱燈':
+    'prefix': '枱燈'
+    'body': '''
+<i class="glyphicon glyphicon-lamp"></i>
+'''
+
+  '架構':
+    'prefix': '架構'
+    'body': '''
+<i class="fa fa-sitemap"></i>
+'''
+
+  '桌機':
+    'prefix': '桌機'
+    'body': '''
+<i class="fa fa-desktop"></i>
+'''
+
+  '標籤':
+    'prefix': '標籤'
+    'body': '''
+<i class="glyphicon glyphicon-bookmark"></i>
+'''
+  '標籤':
+    'prefix': '標籤'
+    'body': '''
+<i class="glyphicon glyphicon-tag"></i>
+'''
+  '標籤':
+    'prefix': '標籤'
+    'body': '''
+<i class="glyphicon glyphicon-tags"></i>
+'''
+  '標籤':
+    'prefix': '標籤'
+    'body': '''
+<i class="fa fa-bookmark"></i>
+'''
+  '標籤':
+    'prefix': '標籤'
+    'body': '''
+<i class="fa fa-bookmark-o"></i>
+'''
+  '標籤':
+    'prefix': '標籤'
+    'body': '''
+<i class="fa fa-tag"></i>
+'''
+  '標籤':
+    'prefix': '標籤'
+    'body': '''
+<i class="fa fa-tags"></i>
+'''
+
+  '機車':
+    'prefix': '機車'
+    'body': '''
+<i class="fa fa-motorcycle"></i>
+'''
+
+  '橡皮擦':
+    'prefix': '橡皮擦'
+    'body': '''
+<i class="fa fa-eraser"></i>
+'''
+
+  '檯燈':
+    'prefix': '檯燈'
+    'body': '''
+<i class="glyphicon glyphicon-lamp"></i>
+'''
+
+  '汽車':
+    'prefix': '汽車'
+    'body': '''
+<i class="fa fa-truck"></i>
+'''
+  '汽車':
+    'prefix': '汽車'
+    'body': '''
+<i class="fa fa-bus"></i>
+'''
+  '汽車':
+    'prefix': '汽車'
+    'body': '''
+<i class="fa fa-ambulance"></i>
+'''
+  '汽車':
+    'prefix': '汽車'
+    'body': '''
+<i class="fa fa-car"></i>
+'''
+  '汽車':
+    'prefix': '汽車'
+    'body': '''
+<i class="fa fa-taxi"></i>
+'''
+
+  '沙漏':
+    'prefix': '沙漏'
+    'body': '''
+<i class="glyphicon glyphicon-hourglass"></i>
+'''
+  '沙漏':
+    'prefix': '沙漏'
+    'body': '''
+<i class="fa fa-hourglass"></i>
+'''
+  '沙漏':
+    'prefix': '沙漏'
+    'body': '''
+<i class="fa fa-hourglass-o"></i>
+'''
+  '沙漏':
+    'prefix': '沙漏'
+    'body': '''
+<i class="fa fa-hourglass-start"></i>
+'''
+  '沙漏':
+    'prefix': '沙漏'
+    'body': '''
+<i class="fa fa-hourglass-end"></i>
+'''
+  '沙漏':
+    'prefix': '沙漏'
+    'body': '''
+<i class="fa fa-hourglass-half"></i>
+'''
+
+  '清單':
+    'prefix': '清單'
+    'body': '''
+<i class="fa fa-list-ol"></i>
+'''
+  '清單':
+    'prefix': '清單'
+    'body': '''
+<i class="fa fa-list-ul"></i>
+'''
+  '清單':
+    'prefix': '清單'
+    'body': '''
+<i class="fa fa-list"></i>
+'''
+  '清單':
+    'prefix': '清單'
+    'body': '''
+<i class="fa fa-list-alt"></i>
+'''
+
+  '減號':
+    'prefix': '減號'
+    'body': '''
+<i class="fa fa-minus-circle"></i>
+'''
+  '減號':
+    'prefix': '減號'
+    'body': '''
+<i class="fa fa-minus-square"></i>
+'''
+  '減號':
+    'prefix': '減號'
+    'body': '''
+<i class="fa fa-minus-square-o"></i>
+'''
+  '減號':
+    'prefix': '減號'
+    'body': '''
+<i class="fa fa-minus"></i>
+'''
+
+  '滅火器':
+    'prefix': '滅火器'
+    'body': '''
+<i class="fa fa-fire-extinguisher"></i>
+'''
+
+  '滴管':
+    'prefix': '滴管'
+    'body': '''
+<i class="fa fa-eyedropper"></i>
+'''
+
+  '漢堡':
+    'prefix': '漢堡'
+    'body': '''
+<i class="glyphicon glyphicon-menu-hamburger"></i>
+'''
+  '漢堡':
+    'prefix': '漢堡'
+    'body': '''
+<i class="fa fa-bars"></i>
+'''
+
+  '瀏覽器':
+    'prefix': '瀏覽器'
+    'body': '''
+<i class="fa fa-chrome"></i>
+'''
+  '瀏覽器':
+    'prefix': '瀏覽器'
+    'body': '''
+<i class="fa fa-firefox"></i>
+'''
+  '瀏覽器':
+    'prefix': '瀏覽器'
+    'body': '''
+<i class="fa fa-internet-explorer"></i>
+'''
+  '瀏覽器':
+    'prefix': '瀏覽器'
+    'body': '''
+<i class="fa fa-opera"></i>
+'''
+  '瀏覽器':
+    'prefix': '瀏覽器'
+    'body': '''
+<i class="fa fa-safari"></i>
+'''
+
+  '火箭':
+    'prefix': '火箭'
+    'body': '''
+<i class="fa fa-rocket"></i>
+'''
+
+  '火車':
+    'prefix': '火車'
+    'body': '''
+<i class="fa fa-subway"></i>
+'''
+  '火車':
+    'prefix': '火車'
+    'body': '''
+<i class="fa fa-train"></i>
+'''
+
+  '炸彈':
+    'prefix': '炸彈'
+    'body': '''
+<i class="fa fa-bomb"></i>
+'''
+
+  '無線':
+    'prefix': '無線'
+    'body': '''
+<i class="fa fa-wifi"></i>
+'''
+
+  '無線網路':
+    'prefix': '無線網路'
+    'body': '''
+<i class="fa fa-wifi"></i>
+'''
+  '無線網路':
+    'prefix': '無線網路'
+    'body': '''
+<i class="fa fa-signal"></i>
+'''
+
+  '無障礙':
+    'prefix': '無障礙'
+    'body': '''
+<i class="fa fa-wheelchair"></i>
+'''
+
+  '照相機':
+    'prefix': '照相機'
+    'body': '''
+<i class="glyphicon glyphicon-camera"></i>
+'''
+  '照相機':
+    'prefix': '照相機'
+    'body': '''
+<i class="fa fa-camera-retro"></i>
+'''
+  '照相機':
+    'prefix': '照相機'
+    'body': '''
+<i class="fa fa-camera"></i>
+'''
+
+  '燈':
+    'prefix': '燈'
+    'body': '''
+<i class="glyphicon glyphicon-lamp"></i>
+'''
+  '燈':
+    'prefix': '燈'
+    'body': '''
+<i class="fa fa-lightbulb-o"></i>
+'''
+
+  '燈泡':
+    'prefix': '燈泡'
+    'body': '''
+<i class="fa fa-lightbulb-o"></i>
+'''
+
+  '版本控制':
+    'prefix': '版本控制'
+    'body': '''
+<i class="fa fa-bitbucket"></i>
+'''
+  '版本控制':
+    'prefix': '版本控制'
+    'body': '''
+<i class="fa fa-bitbucket-square"></i>
+'''
+  '版本控制':
+    'prefix': '版本控制'
+    'body': '''
+<i class="fa fa-code-fork"></i>
+'''
+  '版本控制':
+    'prefix': '版本控制'
+    'body': '''
+<i class="fa fa-github"></i>
+'''
+  '版本控制':
+    'prefix': '版本控制'
+    'body': '''
+<i class="fa fa-github-square"></i>
+'''
+  '版本控制':
+    'prefix': '版本控制'
+    'body': '''
+<i class="fa fa-github-alt"></i>
+'''
+  '版本控制':
+    'prefix': '版本控制'
+    'body': '''
+<i class="fa fa-git-square"></i>
+'''
+  '版本控制':
+    'prefix': '版本控制'
+    'body': '''
+<i class="fa fa-git"></i>
+'''
+
+  '版本控制':
+    'prefix': '版本控制'
+    'body': '''
+<i class="fa fa-bitbucket"></i>
+'''
+  '版本控制':
+    'prefix': '版本控制'
+    'body': '''
+<i class="fa fa-bitbucket-square"></i>
+'''
+  '版本控制':
+    'prefix': '版本控制'
+    'body': '''
+<i class="fa fa-code-fork"></i>
+'''
+  '版本控制':
+    'prefix': '版本控制'
+    'body': '''
+<i class="fa fa-github"></i>
+'''
+  '版本控制':
+    'prefix': '版本控制'
+    'body': '''
+<i class="fa fa-github-square"></i>
+'''
+  '版本控制':
+    'prefix': '版本控制'
+    'body': '''
+<i class="fa fa-github-alt"></i>
+'''
+  '版本控制':
+    'prefix': '版本控制'
+    'body': '''
+<i class="fa fa-git-square"></i>
+'''
+  '版本控制':
+    'prefix': '版本控制'
+    'body': '''
+<i class="fa fa-git"></i>
+'''
+
+  '獎杯':
+    'prefix': '獎杯'
+    'body': '''
+<i class="fa fa-trophy"></i>
+'''
+
+  '獎盃':
+    'prefix': '獎盃'
+    'body': '''
+<i class="fa fa-trophy"></i>
+'''
+
+  '球':
+    'prefix': '球'
+    'body': '''
+<i class="fa fa-futbol-o"></i>
+'''
+
+  '留言':
+    'prefix': '留言'
+    'body': '''
+<i class="glyphicon glyphicon-comment"></i>
+'''
+  '留言':
+    'prefix': '留言'
+    'body': '''
+<i class="fa fa-comments-o"></i>
+'''
+  '留言':
+    'prefix': '留言'
+    'body': '''
+<i class="fa fa-comments"></i>
+'''
+  '留言':
+    'prefix': '留言'
+    'body': '''
+<i class="fa fa-commenting"></i>
+'''
+  '留言':
+    'prefix': '留言'
+    'body': '''
+<i class="fa fa-comment"></i>
+'''
+  '留言':
+    'prefix': '留言'
+    'body': '''
+<i class="fa fa-commenting-o"></i>
+'''
+  '留言':
+    'prefix': '留言'
+    'body': '''
+<i class="fa fa-comment-o"></i>
+'''
+
+  '病人':
+    'prefix': '病人'
+    'body': '''
+<i class="fa fa-bed"></i>
+'''
+
+  '登入':
+    'prefix': '登入'
+    'body': '''
+<i class="glyphicon glyphicon-log-in"></i>
+'''
+  '登入':
+    'prefix': '登入'
+    'body': '''
+<i class="fa fa-sign-in"></i>
+'''
+
+  '登出':
+    'prefix': '登出'
+    'body': '''
+<i class="glyphicon glyphicon-log-out"></i>
+'''
+  '登出':
+    'prefix': '登出'
+    'body': '''
+<i class="fa fa-sign-out"></i>
+'''
+
+  '皮包':
+    'prefix': '皮包'
+    'body': '''
+<i class="glyphicon glyphicon-piggy-bank"></i>
+'''
+
+  '眼睛':
+    'prefix': '眼睛'
+    'body': '''
+<i class="glyphicon glyphicon-eye-close"></i>
+'''
+  '眼睛':
+    'prefix': '眼睛'
+    'body': '''
+<i class="glyphicon glyphicon-eye-open"></i>
+'''
+  '眼睛':
+    'prefix': '眼睛'
+    'body': '''
+<i class="fa fa-eye-slash"></i>
+'''
+  '眼睛':
+    'prefix': '眼睛'
+    'body': '''
+<i class="fa fa-eye"></i>
+'''
+
+  '硬碟':
+    'prefix': '硬碟'
+    'body': '''
+<i class="glyphicon glyphicon-hdd"></i>
+'''
+  '硬碟':
+    'prefix': '硬碟'
+    'body': '''
+<i class="fa fa-server"></i>
+'''
+  '硬碟':
+    'prefix': '硬碟'
+    'body': '''
+<i class="fa fa-upload"></i>
+'''
+  '硬碟':
+    'prefix': '硬碟'
+    'body': '''
+<i class="fa fa-download"></i>
+'''
+  '硬碟':
+    'prefix': '硬碟'
+    'body': '''
+<i class="fa fa-hdd-o"></i>
+'''
+
+  '確定':
+    'prefix': '確定'
+    'body': '''
+<i class="glyphicon glyphicon-ok-sign"></i>
+'''
+  '確定':
+    'prefix': '確定'
+    'body': '''
+<i class="glyphicon glyphicon-ok-circle"></i>
+'''
+  '確定':
+    'prefix': '確定'
+    'body': '''
+<i class="glyphicon glyphicon-ok"></i>
+'''
+  '確定':
+    'prefix': '確定'
+    'body': '''
+<i class="fa fa-check-circle"></i>
+'''
+  '確定':
+    'prefix': '確定'
+    'body': '''
+<i class="fa fa-check-square"></i>
+'''
+  '確定':
+    'prefix': '確定'
+    'body': '''
+<i class="fa fa-check-circle-o"></i>
+'''
+  '確定':
+    'prefix': '確定'
+    'body': '''
+<i class="fa fa-check-square-o"></i>
+'''
+  '確定':
+    'prefix': '確定'
+    'body': '''
+<i class="fa fa-check"></i>
+'''
+
+  '確認':
+    'prefix': '確認'
+    'body': '''
+<i class="glyphicon glyphicon-ok-sign"></i>
+'''
+  '確認':
+    'prefix': '確認'
+    'body': '''
+<i class="glyphicon glyphicon-ok-circle"></i>
+'''
+  '確認':
+    'prefix': '確認'
+    'body': '''
+<i class="glyphicon glyphicon-ok"></i>
+'''
+  '確認':
+    'prefix': '確認'
+    'body': '''
+<i class="fa fa-check-circle"></i>
+'''
+  '確認':
+    'prefix': '確認'
+    'body': '''
+<i class="fa fa-check-square"></i>
+'''
+  '確認':
+    'prefix': '確認'
+    'body': '''
+<i class="fa fa-check-circle-o"></i>
+'''
+  '確認':
+    'prefix': '確認'
+    'body': '''
+<i class="fa fa-check-square-o"></i>
+'''
+  '確認':
+    'prefix': '確認'
+    'body': '''
+<i class="fa fa-check"></i>
+'''
+
+  '磁碟片':
+    'prefix': '磁碟片'
+    'body': '''
+<i class="glyphicon glyphicon-floppy-remove"></i>
+'''
+  '磁碟片':
+    'prefix': '磁碟片'
+    'body': '''
+<i class="glyphicon glyphicon-floppy-saved"></i>
+'''
+  '磁碟片':
+    'prefix': '磁碟片'
+    'body': '''
+<i class="glyphicon glyphicon-floppy-open"></i>
+'''
+  '磁碟片':
+    'prefix': '磁碟片'
+    'body': '''
+<i class="glyphicon glyphicon-floppy-save"></i>
+'''
+  '磁碟片':
+    'prefix': '磁碟片'
+    'body': '''
+<i class="glyphicon glyphicon-floppy-disk"></i>
+'''
+  '磁碟片':
+    'prefix': '磁碟片'
+    'body': '''
+<i class="fa fa-floppy-o"></i>
+'''
+
+  '社交':
+    'prefix': '社交'
+    'body': '''
+<i class="fa fa-qq"></i>
+'''
+  '社交':
+    'prefix': '社交'
+    'body': '''
+<i class="fa fa-google-plus"></i>
+'''
+  '社交':
+    'prefix': '社交'
+    'body': '''
+<i class="fa fa-instagram"></i>
+'''
+  '社交':
+    'prefix': '社交'
+    'body': '''
+<i class="fa fa-linkedin"></i>
+'''
+  '社交':
+    'prefix': '社交'
+    'body': '''
+<i class="fa fa-linkedin-square"></i>
+'''
+  '社交':
+    'prefix': '社交'
+    'body': '''
+<i class="fa fa-skype"></i>
+'''
+  '社交':
+    'prefix': '社交'
+    'body': '''
+<i class="fa fa-twitter"></i>
+'''
+  '社交':
+    'prefix': '社交'
+    'body': '''
+<i class="fa fa-twitter-square"></i>
+'''
+  '社交':
+    'prefix': '社交'
+    'body': '''
+<i class="fa fa-weixin"></i>
+'''
+  '社交':
+    'prefix': '社交'
+    'body': '''
+<i class="fa fa-whatsapp"></i>
+'''
+  '社交':
+    'prefix': '社交'
+    'body': '''
+<i class="fa fa-weibo"></i>
+'''
+  '社交':
+    'prefix': '社交'
+    'body': '''
+<i class="fa fa-facebook"></i>
+'''
+  '社交':
+    'prefix': '社交'
+    'body': '''
+<i class="fa fa-facebook-square"></i>
+'''
+  '社交':
+    'prefix': '社交'
+    'body': '''
+<i class="fa fa-facebook-official"></i>
+'''
+
+  '社群':
+    'prefix': '社群'
+    'body': '''
+<i class="fa fa-qq"></i>
+'''
+  '社群':
+    'prefix': '社群'
+    'body': '''
+<i class="fa fa-google-plus"></i>
+'''
+  '社群':
+    'prefix': '社群'
+    'body': '''
+<i class="fa fa-instagram"></i>
+'''
+  '社群':
+    'prefix': '社群'
+    'body': '''
+<i class="fa fa-linkedin"></i>
+'''
+  '社群':
+    'prefix': '社群'
+    'body': '''
+<i class="fa fa-linkedin-square"></i>
+'''
+  '社群':
+    'prefix': '社群'
+    'body': '''
+<i class="fa fa-skype"></i>
+'''
+  '社群':
+    'prefix': '社群'
+    'body': '''
+<i class="fa fa-twitter"></i>
+'''
+  '社群':
+    'prefix': '社群'
+    'body': '''
+<i class="fa fa-twitter-square"></i>
+'''
+  '社群':
+    'prefix': '社群'
+    'body': '''
+<i class="fa fa-weixin"></i>
+'''
+  '社群':
+    'prefix': '社群'
+    'body': '''
+<i class="fa fa-whatsapp"></i>
+'''
+  '社群':
+    'prefix': '社群'
+    'body': '''
+<i class="fa fa-weibo"></i>
+'''
+  '社群':
+    'prefix': '社群'
+    'body': '''
+<i class="fa fa-facebook"></i>
+'''
+  '社群':
+    'prefix': '社群'
+    'body': '''
+<i class="fa fa-facebook-square"></i>
+'''
+  '社群':
+    'prefix': '社群'
+    'body': '''
+<i class="fa fa-facebook-official"></i>
+'''
+
+  '禮物':
+    'prefix': '禮物'
+    'body': '''
+<i class="glyphicon glyphicon-gift"></i>
+'''
+  '禮物':
+    'prefix': '禮物'
+    'body': '''
+<i class="fa fa-gift"></i>
+'''
+
+  '禮盒':
+    'prefix': '禮盒'
+    'body': '''
+<i class="glyphicon glyphicon-gift"></i>
+'''
+  '禮盒':
+    'prefix': '禮盒'
+    'body': '''
+<i class="fa fa-gift"></i>
+'''
+
+  '移除':
+    'prefix': '移除'
+    'body': '''
+<i class="glyphicon glyphicon-remove-sign"></i>
+'''
+  '移除':
+    'prefix': '移除'
+    'body': '''
+<i class="glyphicon glyphicon-remove-circle"></i>
+'''
+  '移除':
+    'prefix': '移除'
+    'body': '''
+<i class="glyphicon glyphicon-remove"></i>
+'''
+  '移除':
+    'prefix': '移除'
+    'body': '''
+<i class="fa fa-user-times"></i>
+'''
+  '移除':
+    'prefix': '移除'
+    'body': '''
+<i class="fa fa-times-circle"></i>
+'''
+  '移除':
+    'prefix': '移除'
+    'body': '''
+<i class="fa fa-times-circle-o"></i>
+'''
+  '移除':
+    'prefix': '移除'
+    'body': '''
+<i class="fa fa-times"></i>
+'''
+  '移除':
+    'prefix': '移除'
+    'body': '''
+<i class="fa fa-minus-circle"></i>
+'''
+  '移除':
+    'prefix': '移除'
+    'body': '''
+<i class="fa fa-minus-square"></i>
+'''
+  '移除':
+    'prefix': '移除'
+    'body': '''
+<i class="fa fa-minus-square-o"></i>
+'''
+  '移除':
+    'prefix': '移除'
+    'body': '''
+<i class="fa fa-minus"></i>
+'''
+
+  '移除使用者':
+    'prefix': '移除使用者'
+    'body': '''
+<i class="fa fa-user-times"></i>
+'''
+
+  '章魚貓':
+    'prefix': '章魚貓'
+    'body': '''
+<i class="fa fa-github"></i>
+'''
+  '章魚貓':
+    'prefix': '章魚貓'
+    'body': '''
+<i class="fa fa-github-square"></i>
+'''
+  '章魚貓':
+    'prefix': '章魚貓'
+    'body': '''
+<i class="fa fa-github-alt"></i>
+'''
+
+  '笑臉':
+    'prefix': '笑臉'
+    'body': '''
+<i class="fa fa-frown-o"></i>
+'''
+  '笑臉':
+    'prefix': '笑臉'
+    'body': '''
+<i class="fa fa-meh-o"></i>
+'''
+  '笑臉':
+    'prefix': '笑臉'
+    'body': '''
+<i class="fa fa-smile-o"></i>
+'''
+
+  '筆記型電腦':
+    'prefix': '筆記型電腦'
+    'body': '''
+<i class="fa fa-laptop"></i>
+'''
+
+  '筆電':
+    'prefix': '筆電'
+    'body': '''
+<i class="fa fa-laptop"></i>
+'''
+
+  '箭頭':
+    'prefix': '箭頭'
+    'body': '''
+<i class="glyphicon glyphicon-arrow-up"></i>
+'''
+  '箭頭':
+    'prefix': '箭頭'
+    'body': '''
+<i class="glyphicon glyphicon-arrow-down"></i>
+'''
+  '箭頭':
+    'prefix': '箭頭'
+    'body': '''
+<i class="glyphicon glyphicon-arrow-right"></i>
+'''
+  '箭頭':
+    'prefix': '箭頭'
+    'body': '''
+<i class="glyphicon glyphicon-arrow-left"></i>
+'''
+  '箭頭':
+    'prefix': '箭頭'
+    'body': '''
+<i class="glyphicon glyphicon-circle-arrow-up"></i>
+'''
+  '箭頭':
+    'prefix': '箭頭'
+    'body': '''
+<i class="glyphicon glyphicon-circle-arrow-down"></i>
+'''
+  '箭頭':
+    'prefix': '箭頭'
+    'body': '''
+<i class="glyphicon glyphicon-circle-arrow-right"></i>
+'''
+  '箭頭':
+    'prefix': '箭頭'
+    'body': '''
+<i class="glyphicon glyphicon-circle-arrow-left"></i>
+'''
+  '箭頭':
+    'prefix': '箭頭'
+    'body': '''
+<i class="glyphicon glyphicon-circle-arrow-upload"></i>
+'''
+  '箭頭':
+    'prefix': '箭頭'
+    'body': '''
+<i class="glyphicon glyphicon-download"></i>
+'''
+  '箭頭':
+    'prefix': '箭頭'
+    'body': '''
+<i class="glyphicon glyphicon-chevron-up"></i>
+'''
+  '箭頭':
+    'prefix': '箭頭'
+    'body': '''
+<i class="glyphicon glyphicon-chevron-down"></i>
+'''
+  '箭頭':
+    'prefix': '箭頭'
+    'body': '''
+<i class="glyphicon glyphicon-chevron-right"></i>
+'''
+  '箭頭':
+    'prefix': '箭頭'
+    'body': '''
+<i class="glyphicon glyphicon-chevron-left"></i>
+'''
+  '箭頭':
+    'prefix': '箭頭'
+    'body': '''
+<i class="glyphicon glyphicon-menu-up"></i>
+'''
+  '箭頭':
+    'prefix': '箭頭'
+    'body': '''
+<i class="glyphicon glyphicon-menu-down"></i>
+'''
+  '箭頭':
+    'prefix': '箭頭'
+    'body': '''
+<i class="glyphicon glyphicon-menu-right"></i>
+'''
+  '箭頭':
+    'prefix': '箭頭'
+    'body': '''
+<i class="glyphicon glyphicon-menu-left"></i>
+'''
+  '箭頭':
+    'prefix': '箭頭'
+    'body': '''
+<i class="fa fa-arrow-top"></i>
+'''
+  '箭頭':
+    'prefix': '箭頭'
+    'body': '''
+<i class="fa fa-arrow-down"></i>
+'''
+  '箭頭':
+    'prefix': '箭頭'
+    'body': '''
+<i class="fa fa-arrow-right"></i>
+'''
+  '箭頭':
+    'prefix': '箭頭'
+    'body': '''
+<i class="fa fa-arrow-left"></i>
+'''
+  '箭頭':
+    'prefix': '箭頭'
+    'body': '''
+<i class="fa fa-arrow-circle-top"></i>
+'''
+  '箭頭':
+    'prefix': '箭頭'
+    'body': '''
+<i class="fa fa-arrow-circle-down"></i>
+'''
+  '箭頭':
+    'prefix': '箭頭'
+    'body': '''
+<i class="fa fa-arrow-circle-right"></i>
+'''
+  '箭頭':
+    'prefix': '箭頭'
+    'body': '''
+<i class="fa fa-arrow-circle-left"></i>
+'''
+  '箭頭':
+    'prefix': '箭頭'
+    'body': '''
+<i class="fa fa-arrow-circle-o-top"></i>
+'''
+  '箭頭':
+    'prefix': '箭頭'
+    'body': '''
+<i class="fa fa-arrow-circle-o-down"></i>
+'''
+  '箭頭':
+    'prefix': '箭頭'
+    'body': '''
+<i class="fa fa-arrow-circle-o-right"></i>
+'''
+  '箭頭':
+    'prefix': '箭頭'
+    'body': '''
+<i class="fa fa-arrow-circle-o-left"></i>
+'''
+  '箭頭':
+    'prefix': '箭頭'
+    'body': '''
+<i class="fa fa-chevron-up"></i>
+'''
+  '箭頭':
+    'prefix': '箭頭'
+    'body': '''
+<i class="fa fa-chevron-down"></i>
+'''
+  '箭頭':
+    'prefix': '箭頭'
+    'body': '''
+<i class="fa fa-chevron-right"></i>
+'''
+  '箭頭':
+    'prefix': '箭頭'
+    'body': '''
+<i class="fa fa-chevron-left"></i>
+'''
+  '箭頭':
+    'prefix': '箭頭'
+    'body': '''
+<i class="fa fa-angle-double-up"></i>
+'''
+  '箭頭':
+    'prefix': '箭頭'
+    'body': '''
+<i class="fa fa-angle-double-down"></i>
+'''
+  '箭頭':
+    'prefix': '箭頭'
+    'body': '''
+<i class="fa fa-angle-double-right"></i>
+'''
+  '箭頭':
+    'prefix': '箭頭'
+    'body': '''
+<i class="fa fa-angle-double-left"></i>
+'''
+  '箭頭':
+    'prefix': '箭頭'
+    'body': '''
+<i class="fa fa-angle-up"></i>
+'''
+  '箭頭':
+    'prefix': '箭頭'
+    'body': '''
+<i class="fa fa-angle-down"></i>
+'''
+  '箭頭':
+    'prefix': '箭頭'
+    'body': '''
+<i class="fa fa-angle-right"></i>
+'''
+  '箭頭':
+    'prefix': '箭頭'
+    'body': '''
+<i class="fa fa-angle-left"></i>
+'''
+  '箭頭':
+    'prefix': '箭頭'
+    'body': '''
+<i class="fa fa-chevron-cicle-up"></i>
+'''
+  '箭頭':
+    'prefix': '箭頭'
+    'body': '''
+<i class="fa fa-chevron-cicle-down"></i>
+'''
+  '箭頭':
+    'prefix': '箭頭'
+    'body': '''
+<i class="fa fa-chevron-cicle-right"></i>
+'''
+  '箭頭':
+    'prefix': '箭頭'
+    'body': '''
+<i class="fa fa-chevron-cicle-left"></i>
+'''
+
+  '篩選':
+    'prefix': '篩選'
+    'body': '''
+<i class="glyphicon glyphicon-filter"></i>
+'''
+  '篩選':
+    'prefix': '篩選'
+    'body': '''
+<i class="fa fa-filter"></i>
+'''
+
+  '簡報':
+    'prefix': '簡報'
+    'body': '''
+<i class="fa fa-slideshare"></i>
+'''
+  '簡報':
+    'prefix': '簡報'
+    'body': '''
+<i class="fa fa-file-powerpoint-o"></i>
+'''
+
+  '系統':
+    'prefix': '系統'
+    'body': '''
+<i class="fa fa-android"></i>
+'''
+  '系統':
+    'prefix': '系統'
+    'body': '''
+<i class="fa fa-apple"></i>
+'''
+  '系統':
+    'prefix': '系統'
+    'body': '''
+<i class="fa fa-linux"></i>
+'''
+  '系統':
+    'prefix': '系統'
+    'body': '''
+<i class="fa fa-windows"></i>
+'''
+
+  '紅寶石':
+    'prefix': '紅寶石'
+    'body': '''
+<i class="fa fa-diamond"></i>
+'''
+
+  '紙飛機':
+    'prefix': '紙飛機'
+    'body': '''
+<i class="glyphicon glyphicon-send"></i>
+'''
+  '紙飛機':
+    'prefix': '紙飛機'
+    'body': '''
+<i class="fa fa-paper-plane-o"></i>
+'''
+  '紙飛機':
+    'prefix': '紙飛機'
+    'body': '''
+<i class="fa fa-paper-plane"></i>
+'''
+  '紙飛機':
+    'prefix': '紙飛機'
+    'body': '''
+<i class="fa fa-paper-plane-o"></i>
+'''
+
+  '組織圖':
+    'prefix': '組織圖'
+    'body': '''
+<i class="glyphticon glyphticon-sitemap"></i>
+'''
+
+  '網站地圖':
+    'prefix': '網站地圖'
+    'body': '''
+<i class="fa fa-sitemap"></i>
+'''
+
+  '編輯':
+    'prefix': '編輯'
+    'body': '''
+<i class="glyphicon glyphicon-edit"></i>
+'''
+  '編輯':
+    'prefix': '編輯'
+    'body': '''
+<i class="glyphicon glyphicon-pencil"></i>
+'''
+  '編輯':
+    'prefix': '編輯'
+    'body': '''
+<i class="fa fa-pencil-square-o"></i>
+'''
+  '編輯':
+    'prefix': '編輯'
+    'body': '''
+<i class="fa fa-pencil-square"></i>
+'''
+  '編輯':
+    'prefix': '編輯'
+    'body': '''
+<i class="fa fa-pencil"></i>
+'''
+
+  '縮小':
+    'prefix': '縮小'
+    'body': '''
+<i class="glyphicon glyphicon-zoom-out"></i>
+'''
+  '縮小':
+    'prefix': '縮小'
+    'body': '''
+<i class="fa fa-search-minus"></i>
+'''
+
+  '耳機':
+    'prefix': '耳機'
+    'body': '''
+<i class="glyphicon glyphicon-headphones"></i>
+'''
+  '耳機':
+    'prefix': '耳機'
+    'body': '''
+<i class="fa fa-headphones"></i>
+'''
+
+  '聊天':
+    'prefix': '聊天'
+    'body': '''
+<i class="glyphicon glyphicon-comment"></i>
+'''
+  '聊天':
+    'prefix': '聊天'
+    'body': '''
+<i class="fa fa-qq"></i>
+'''
+  '聊天':
+    'prefix': '聊天'
+    'body': '''
+<i class="fa fa-skype"></i>
+'''
+  '聊天':
+    'prefix': '聊天'
+    'body': '''
+<i class="fa fa-weixin"></i>
+'''
+  '聊天':
+    'prefix': '聊天'
+    'body': '''
+<i class="fa fa-whatsapp"></i>
+'''
+  '聊天':
+    'prefix': '聊天'
+    'body': '''
+<i class="fa fa-comments-o"></i>
+'''
+  '聊天':
+    'prefix': '聊天'
+    'body': '''
+<i class="fa fa-comments"></i>
+'''
+  '聊天':
+    'prefix': '聊天'
+    'body': '''
+<i class="fa fa-commenting"></i>
+'''
+  '聊天':
+    'prefix': '聊天'
+    'body': '''
+<i class="fa fa-comment"></i>
+'''
+  '聊天':
+    'prefix': '聊天'
+    'body': '''
+<i class="fa fa-commenting-o"></i>
+'''
+  '聊天':
+    'prefix': '聊天'
+    'body': '''
+<i class="fa fa-comment-o"></i>
+'''
+
+  '聲音':
+    'prefix': '聲音'
+    'body': '''
+<i class="glyphicon glyphicon-headphones"></i>
+'''
+  '聲音':
+    'prefix': '聲音'
+    'body': '''
+<i class="glyphicon glyphicon-volume-up"></i>
+'''
+  '聲音':
+    'prefix': '聲音'
+    'body': '''
+<i class="glyphicon glyphicon-volume-down"></i>
+'''
+  '聲音':
+    'prefix': '聲音'
+    'body': '''
+<i class="glyphicon glyphicon-volume-off"></i>
+'''
+  '聲音':
+    'prefix': '聲音'
+    'body': '''
+<i class="fa fa-headphones"></i>
+'''
+  '聲音':
+    'prefix': '聲音'
+    'body': '''
+<i class="fa fa-bullhorn"></i>
+'''
+  '聲音':
+    'prefix': '聲音'
+    'body': '''
+<i class="fa fa-volume-up"></i>
+'''
+  '聲音':
+    'prefix': '聲音'
+    'body': '''
+<i class="fa fa-bell"></i>
+'''
+  '聲音':
+    'prefix': '聲音'
+    'body': '''
+<i class="fa fa-bell-o"></i>
+'''
+  '聲音':
+    'prefix': '聲音'
+    'body': '''
+<i class="fa fa-volume-down"></i>
+'''
+  '聲音':
+    'prefix': '聲音'
+    'body': '''
+<i class="fa fa-volume-off"></i>
+'''
+  '聲音':
+    'prefix': '聲音'
+    'body': '''
+<i class="fa fa-microphone-slash"></i>
+'''
+  '聲音':
+    'prefix': '聲音'
+    'body': '''
+<i class="fa fa-microphone"></i>
+'''
+
+  '腳踏車':
+    'prefix': '腳踏車'
+    'body': '''
+<i class="fa fa-bicycle"></i>
+'''
+
+  '手勢':
+    'prefix': '手勢'
+    'body': '''
+<i class="fa fa-thumbs-down"></i>
+'''
+  '手勢':
+    'prefix': '手勢'
+    'body': '''
+<i class="fa fa-thumbs-o-down"></i>
+'''
+  '手勢':
+    'prefix': '手勢'
+    'body': '''
+<i class="fa fa-thumbs-up"></i>
+'''
+  '手勢':
+    'prefix': '手勢'
+    'body': '''
+<i class="fa fa-thumbs-o-up"></i>
+'''
+  '臉書':
+    'prefix': '臉書'
+    'body': '''
+<i class="fa fa-facebook"></i>
+'''
+  '臉書':
+    'prefix': '臉書'
+    'body': '''
+<i class="fa fa-facebook-square"></i>
+'''
+  '臉書':
+    'prefix': '臉書'
+    'body': '''
+<i class="fa fa-facebook-official"></i>
+'''
+
+  '自行車':
+    'prefix': '自行車'
+    'body': '''
+<i class="fa fa-bicycle"></i>
+'''
+
+  '臭蟲':
+    'prefix': '臭蟲'
+    'body': '''
+<i class="fa fa-bug"></i>
+'''
+
+  '航空':
+    'prefix': '航空'
+    'body': '''
+<i class="fa fa-space-shuttle"></i>
+'''
+  '航空':
+    'prefix': '航空'
+    'body': '''
+<i class="fa fa-plane"></i>
+'''
+  '航空':
+    'prefix': '航空'
+    'body': '''
+<i class="fa fa-fighter-jet"></i>
+'''
+  '航空':
+    'prefix': '航空'
+    'body': '''
+<i class="fa fa-rocket"></i>
+'''
+  '航空':
+    'prefix': '航空'
+    'body': '''
+<i class="fa fa-paper-plane"></i>
+'''
+  '航空':
+    'prefix': '航空'
+    'body': '''
+<i class="fa fa-paper-plane-o"></i>
+'''
+
+  '船':
+    'prefix': '船'
+    'body': '''
+<i class="fa fa-ship"></i>
+'''
+
+  '蛋糕':
+    'prefix': '蛋糕'
+    'body': '''
+<i class="fa fa-birthday-cake"></i>
+'''
+
+  '蟲蟲':
+    'prefix': '蟲蟲'
+    'body': '''
+<i class="fa fa-bug"></i>
+'''
+
+  '行事曆':
+    'prefix': '行事曆'
+    'body': '''
+<i class="glyphicon glyphicon-calendar"></i>
+'''
+  '行事曆':
+    'prefix': '行事曆'
+    'body': '''
+<i class="fa fa-calendar"></i>
+'''
+  '行事曆':
+    'prefix': '行事曆'
+    'body': '''
+<i class="fa fa-calendar-o"></i>
+'''
+  '行事曆':
+    'prefix': '行事曆'
+    'body': '''
+<i class="fa fa-calendar-check-o"></i>
+'''
+  '行事曆':
+    'prefix': '行事曆'
+    'body': '''
+<i class="fa fa-calendar-plus-o"></i>
+'''
+  '行事曆':
+    'prefix': '行事曆'
+    'body': '''
+<i class="fa fa-calendar-times-o"></i>
+'''
+  '行事曆':
+    'prefix': '行事曆'
+    'body': '''
+<i class="fa fa-calendar-minus-o"></i>
+'''
+
+  '行動裝置':
+    'prefix': '行動裝置'
+    'body': '''
+<i class="fa fa-tablet"></i>
+'''
+  '行動裝置':
+    'prefix': '行動裝置'
+    'body': '''
+<i class="fa fa-mobile"></i>
+'''
+
+  '行動電話':
+    'prefix': '行動電話'
+    'body': '''
+<i class="fa fa-mobile"></i>
+'''
+
+  '裁切':
+    'prefix': '裁切'
+    'body': '''
+<i class="fa fa-crop"></i>
+'''
+
+  '裝置':
+    'prefix': '裝置'
+    'body': '''
+<i class="fa fa-tablet"></i>
+'''
+  '裝置':
+    'prefix': '裝置'
+    'body': '''
+<i class="fa fa-mobile"></i>
+'''
+  '裝置':
+    'prefix': '裝置'
+    'body': '''
+<i class="fa fa-television"></i>
+'''
+  '裝置':
+    'prefix': '裝置'
+    'body': '''
+<i class="fa fa-laptop"></i>
+'''
+  '裝置':
+    'prefix': '裝置'
+    'body': '''
+<i class="fa fa-keyboard-o"></i>
+'''
+  '裝置':
+    'prefix': '裝置'
+    'body': '''
+<i class="fa fa-desktop"></i>
+'''
+
+  '複製':
+    'prefix': '複製'
+    'body': '''
+<i class="glyphicon glyphicon-duplicate"></i>
+'''
+  '複製':
+    'prefix': '複製'
+    'body': '''
+<i class="fa fa-clipboard"></i>
+'''
+  '複製':
+    'prefix': '複製'
+    'body': '''
+<i class="fa fa-files-o"></i>
+'''
+
+  '解鎖':
+    'prefix': '解鎖'
+    'body': '''
+<i class="fa fa-unlock"></i>
+'''
+  '解鎖':
+    'prefix': '解鎖'
+    'body': '''
+<i class="fa fa-unlock-alt"></i>
+'''
+
+  '計程車':
+    'prefix': '計程車'
+    'body': '''
+<i class="fa fa-taxi"></i>
+'''
+
+  '計算':
+    'prefix': '計算'
+    'body': '''
+<i class="fa fa-calculator"></i>
+'''
+
+  '計算機':
+    'prefix': '計算機'
+    'body': '''
+<i class="fa fa-calculator"></i>
+'''
+
+  '訊息':
+    'prefix': '訊息'
+    'body': '''
+<i class="glyphicon glyphicon-comment"></i>
+'''
+  '訊息':
+    'prefix': '訊息'
+    'body': '''
+<i class="fa fa-comments-o"></i>
+'''
+  '訊息':
+    'prefix': '訊息'
+    'body': '''
+<i class="fa fa-comments"></i>
+'''
+  '訊息':
+    'prefix': '訊息'
+    'body': '''
+<i class="fa fa-commenting"></i>
+'''
+  '訊息':
+    'prefix': '訊息'
+    'body': '''
+<i class="fa fa-comment"></i>
+'''
+  '訊息':
+    'prefix': '訊息'
+    'body': '''
+<i class="fa fa-commenting-o"></i>
+'''
+  '訊息':
+    'prefix': '訊息'
+    'body': '''
+<i class="fa fa-comment-o"></i>
+'''
+
+  '訊號':
+    'prefix': '訊號'
+    'body': '''
+<i class="glyphicon glyphicon-signal"></i>
+'''
+  '訊號':
+    'prefix': '訊號'
+    'body': '''
+<i class="fa fa-signal"></i>
+'''
+
+  '設定':
+    'prefix': '設定'
+    'body': '''
+<i class="glyphicon glyphicon-wrench"></i>
+'''
+  '設定':
+    'prefix': '設定'
+    'body': '''
+<i class="glyphicon glyphicon-cog"></i>
+'''
+  '設定':
+    'prefix': '設定'
+    'body': '''
+<i class="fa fa-wrench"></i>
+'''
+  '設定':
+    'prefix': '設定'
+    'body': '''
+<i class="fa fa-cog"></i>
+'''
+  '設定':
+    'prefix': '設定'
+    'body': '''
+<i class="fa fa-cogs"></i>
+'''
+
+  '講話':
+    'prefix': '講話'
+    'body': '''
+<i class="glyphicon glyphicon-comment"></i>
+'''
+  '講話':
+    'prefix': '講話'
+    'body': '''
+<i class="fa fa-comments-o"></i>
+'''
+  '講話':
+    'prefix': '講話'
+    'body': '''
+<i class="fa fa-comments"></i>
+'''
+  '講話':
+    'prefix': '講話'
+    'body': '''
+<i class="fa fa-commenting"></i>
+'''
+  '講話':
+    'prefix': '講話'
+    'body': '''
+<i class="fa fa-comment"></i>
+'''
+  '講話':
+    'prefix': '講話'
+    'body': '''
+<i class="fa fa-commenting-o"></i>
+'''
+  '講話':
+    'prefix': '講話'
+    'body': '''
+<i class="fa fa-comment-o"></i>
+'''
+
+  '豬':
+    'prefix': '豬'
+    'body': '''
+<i class="glyphicon glyphicon-piggy-bank"></i>
+'''
+
+  '貓頭鷹':
+    'prefix': '貓頭鷹'
+    'body': '''
+<i class="fa fa-tripadvisor"></i>
+'''
+
+  '資料夾':
+    'prefix': '資料夾'
+    'body': '''
+<i class="glyphicon glyphicon-folder-open"></i>
+'''
+  '資料夾':
+    'prefix': '資料夾'
+    'body': '''
+<i class="glyphicon glyphicon-level-up"></i>
+'''
+  '資料夾':
+    'prefix': '資料夾'
+    'body': '''
+<i class="glyphicon glyphicon-folder-close"></i>
+'''
+  '資料夾':
+    'prefix': '資料夾'
+    'body': '''
+<i class="fa fa-folder-open"></i>
+'''
+  '資料夾':
+    'prefix': '資料夾'
+    'body': '''
+<i class="fa fa-folder"></i>
+'''
+  '資料夾':
+    'prefix': '資料夾'
+    'body': '''
+<i class="fa fa-folder-open-o"></i>
+'''
+  '資料夾':
+    'prefix': '資料夾'
+    'body': '''
+<i class="fa fa-folder-o"></i>
+'''
+
+  '資料庫':
+    'prefix': '資料庫'
+    'body': '''
+<i class="fa fa-database"></i>
+'''
+
+  '購物車':
+    'prefix': '購物車'
+    'body': '''
+<i class="glyphicon glyphicon-shopping-cart"></i>
+'''
+  '購物車':
+    'prefix': '購物車'
+    'body': '''
+<i class="fa fa-cart-plus"></i>
+'''
+  '購物車':
+    'prefix': '購物車'
+    'body': '''
+<i class="fa fa-cart-arrow-down"></i>
+'''
+  '購物車':
+    'prefix': '購物車'
+    'body': '''
+<i class="fa fa-shopping-cart"></i>
+'''
+
+  '超連結':
+    'prefix': '超連結'
+    'body': '''
+<i class="glyphicon glyphicon-link"></i>
+'''
+  '超連結':
+    'prefix': '超連結'
+    'body': '''
+<i class="fa fa-chain-broken"></i>
+'''
+  '超連結':
+    'prefix': '超連結'
+    'body': '''
+<i class="fa fa-link"></i>
+'''
+
+  '足球':
+    'prefix': '足球'
+    'body': '''
+<i class="fa fa-futbol-o"></i>
+'''
+
+  '車子':
+    'prefix': '車子'
+    'body': '''
+<i class="fa fa-truck"></i>
+'''
+  '車子':
+    'prefix': '車子'
+    'body': '''
+<i class="fa fa-bus"></i>
+'''
+  '車子':
+    'prefix': '車子'
+    'body': '''
+<i class="fa fa-subway"></i>
+'''
+  '車子':
+    'prefix': '車子'
+    'body': '''
+<i class="fa fa-ambulance"></i>
+'''
+  '車子':
+    'prefix': '車子'
+    'body': '''
+<i class="fa fa-motorcycle"></i>
+'''
+  '車子':
+    'prefix': '車子'
+    'body': '''
+<i class="fa fa-car"></i>
+'''
+  '車子':
+    'prefix': '車子'
+    'body': '''
+<i class="fa fa-train"></i>
+'''
+  '車子':
+    'prefix': '車子'
+    'body': '''
+<i class="fa fa-bicycle"></i>
+'''
+  '車子':
+    'prefix': '車子'
+    'body': '''
+<i class="fa fa-taxi"></i>
+'''
+
+  '輪椅':
+    'prefix': '輪椅'
+    'body': '''
+<i class="fa fa-wheelchair"></i>
+'''
+
+  '迴紋針':
+    'prefix': '迴紋針'
+    'body': '''
+<i class="glyphicon glyphicon-paperclip"></i>
+'''
+  '迴紋針':
+    'prefix': '迴紋針'
+    'body': '''
+<i class="fa fa-paperclip"></i>
+'''
+
+  '退出':
+    'prefix': '退出'
+    'body': '''
+<i class="glyphicon glyphicon-eject"></i>
+'''
+  '退出':
+    'prefix': '退出'
+    'body': '''
+<i class="fa fa-eject"></i>
+'''
+
+  '退片':
+    'prefix': '退片'
+    'body': '''
+<i class="glyphicon glyphicon-eject"></i>
+'''
+  '退片':
+    'prefix': '退片'
+    'body': '''
+<i class="fa fa-eject"></i>
+'''
+
+  '送禮物':
+    'prefix': '送禮物'
+    'body': '''
+<i class="glyphicon glyphicon-gift"></i>
+'''
+  '送禮物':
+    'prefix': '送禮物'
+    'body': '''
+<i class="fa fa-gift"></i>
+'''
+
+  '通訊':
+    'prefix': '通訊'
+    'body': '''
+<i class="fa fa-qq"></i>
+'''
+  '通訊':
+    'prefix': '通訊'
+    'body': '''
+<i class="fa fa-skype"></i>
+'''
+  '通訊':
+    'prefix': '通訊'
+    'body': '''
+<i class="fa fa-weixin"></i>
+'''
+  '通訊':
+    'prefix': '通訊'
+    'body': '''
+<i class="fa fa-whatsapp"></i>
+'''
+
+  '通訊軟體':
+    'prefix': '通訊軟體'
+    'body': '''
+<i class="fa fa-qq"></i>
+'''
+  '通訊軟體':
+    'prefix': '通訊軟體'
+    'body': '''
+<i class="fa fa-skype"></i>
+'''
+  '通訊軟體':
+    'prefix': '通訊軟體'
+    'body': '''
+<i class="fa fa-weixin"></i>
+'''
+  '通訊軟體':
+    'prefix': '通訊軟體'
+    'body': '''
+<i class="fa fa-whatsapp"></i>
+'''
+
+  '連結':
+    'prefix': '連結'
+    'body': '''
+<i class="fa fa-chain-broken"></i>
+'''
+  '連結':
+    'prefix': '連結'
+    'body': '''
+<i class="fa fa-link"></i>
+'''
+
+  '進度':
+    'prefix': '進度'
+    'body': '''
+<i class="fa fa-hourglass"></i>
+'''
+  '進度':
+    'prefix': '進度'
+    'body': '''
+<i class="fa fa-hourglass-o"></i>
+'''
+  '進度':
+    'prefix': '進度'
+    'body': '''
+<i class="fa fa-hourglass-start"></i>
+'''
+  '進度':
+    'prefix': '進度'
+    'body': '''
+<i class="fa fa-hourglass-end"></i>
+'''
+  '進度':
+    'prefix': '進度'
+    'body': '''
+<i class="fa fa-hourglass-half"></i>
+'''
+
+  '過濾':
+    'prefix': '過濾'
+    'body': '''
+<i class="glyphicon glyphicon-filter"></i>
+'''
+  '過濾':
+    'prefix': '過濾'
+    'body': '''
+<i class="fa fa-filter"></i>
+'''
+
+  '遞增':
+    'prefix': '遞增'
+    'body': '''
+<i class="fa fa-sort-numeric-asc"></i>
+'''
+  '遞增':
+    'prefix': '遞增'
+    'body': '''
+<i class="fa fa-sort-alpha-asc"></i>
+'''
+  '遞增':
+    'prefix': '遞增'
+    'body': '''
+<i class="fa fa-sort-amount-asc"></i>
+'''
+
+  '遞減':
+    'prefix': '遞減'
+    'body': '''
+<i class="fa fa-sort-numeric-desc"></i>
+'''
+  '遞減':
+    'prefix': '遞減'
+    'body': '''
+<i class="fa fa-sort-alpha-desc"></i>
+'''
+  '遞減':
+    'prefix': '遞減'
+    'body': '''
+<i class="fa fa-sort-amount-desc"></i>
+'''
+
+  '重播':
+    'prefix': '重播'
+    'body': '''
+<i class="fa fa-refresh"></i>
+'''
+  '重播':
+    'prefix': '重播'
+    'body': '''
+<i class="fa fa-repeat"></i>
+'''
+
+  '重新整理':
+    'prefix': '重新整理'
+    'body': '''
+<i class="glyphicon glyphicon-refresh"></i>
+'''
+  '重新整理':
+    'prefix': '重新整理'
+    'body': '''
+<i class="fa fa-refresh"></i>
+'''
+
+  '鉛筆':
+    'prefix': '鉛筆'
+    'body': '''
+<i class="glyphicon glyphicon-edit"></i>
+'''
+  '鉛筆':
+    'prefix': '鉛筆'
+    'body': '''
+<i class="glyphicon glyphicon-pencil"></i>
+'''
+  '鉛筆':
+    'prefix': '鉛筆'
+    'body': '''
+<i class="fa fa-pencil-square-o"></i>
+'''
+  '鉛筆':
+    'prefix': '鉛筆'
+    'body': '''
+<i class="fa fa-pencil-square"></i>
+'''
+  '鉛筆':
+    'prefix': '鉛筆'
+    'body': '''
+<i class="fa fa-pencil"></i>
+'''
+
+  '錢':
+    'prefix': '錢'
+    'body': '''
+<i class="glyphicon glyphicon-piggy-bank"></i>
+'''
+  '錢':
+    'prefix': '錢'
+    'body': '''
+<i class="glyphicon glyphicon-yen"></i>
+'''
+  '錢':
+    'prefix': '錢'
+    'body': '''
+<i class="glyphicon glyphicon-eur"></i>
+'''
+  '錢':
+    'prefix': '錢'
+    'body': '''
+<i class="fa fa-jpy"></i>
+'''
+  '錢':
+    'prefix': '錢'
+    'body': '''
+<i class="fa fa-eur"></i>
+'''
+  '錢':
+    'prefix': '錢'
+    'body': '''
+<i class="fa fa-usd"></i>
+'''
+  '錢':
+    'prefix': '錢'
+    'body': '''
+<i class="fa fa-money"></i>
+'''
+
+  '錢包':
+    'prefix': '錢包'
+    'body': '''
+<i class="glyphicon glyphicon-piggy-bank"></i>
+'''
+
+  '鍵盤':
+    'prefix': '鍵盤'
+    'body': '''
+<i class="fa fa-keyboard-o"></i>
+'''
+
+  '鎖':
+    'prefix': '鎖'
+    'body': '''
+<i class="fa fa-expeditedssl"></i>
+'''
+  '鎖':
+    'prefix': '鎖'
+    'body': '''
+<i class="fa fa-unlock"></i>
+'''
+  '鎖':
+    'prefix': '鎖'
+    'body': '''
+<i class="fa fa-unlock-alt"></i>
+'''
+  '鎖':
+    'prefix': '鎖'
+    'body': '''
+<i class="fa fa-lock"></i>
+'''
+
+  '鎖住':
+    'prefix': '鎖住'
+    'body': '''
+<i class="fa fa-expeditedssl"></i>
+'''
+  '鎖住':
+    'prefix': '鎖住'
+    'body': '''
+<i class="fa fa-unlock"></i>
+'''
+  '鎖住':
+    'prefix': '鎖住'
+    'body': '''
+<i class="fa fa-unlock-alt"></i>
+'''
+  '鎖住':
+    'prefix': '鎖住'
+    'body': '''
+<i class="fa fa-lock"></i>
+'''
+
+  '鎖定':
+    'prefix': '鎖定'
+    'body': '''
+<i class="fa fa-expeditedssl"></i>
+'''
+  '鎖定':
+    'prefix': '鎖定'
+    'body': '''
+<i class="fa fa-unlock"></i>
+'''
+  '鎖定':
+    'prefix': '鎖定'
+    'body': '''
+<i class="fa fa-unlock-alt"></i>
+'''
+  '鎖定':
+    'prefix': '鎖定'
+    'body': '''
+<i class="fa fa-lock"></i>
+'''
+
+  '鎖頭':
+    'prefix': '鎖頭'
+    'body': '''
+<i class="fa fa-expeditedssl"></i>
+'''
+  '鎖頭':
+    'prefix': '鎖頭'
+    'body': '''
+<i class="fa fa-unlock"></i>
+'''
+  '鎖頭':
+    'prefix': '鎖頭'
+    'body': '''
+<i class="fa fa-unlock-alt"></i>
+'''
+  '鎖頭':
+    'prefix': '鎖頭'
+    'body': '''
+<i class="fa fa-lock"></i>
+'''
+
+  '鑽石':
+    'prefix': '鑽石'
+    'body': '''
+<i class="fa fa-diamond"></i>
+'''
+
+  '閃電':
+    'prefix': '閃電'
+    'body': '''
+<i class="glyphicon glyphicon-flash"></i>
+'''
+  '閃電':
+    'prefix': '閃電'
+    'body': '''
+<i class="fa fa-bolt"></i>
+'''
+
+  '開鎖':
+    'prefix': '開鎖'
+    'body': '''
+<i class="fa fa-unlock"></i>
+'''
+  '開鎖':
+    'prefix': '開鎖'
+    'body': '''
+<i class="fa fa-unlock-alt"></i>
+'''
+
+  '關掉':
+    'prefix': '關掉'
+    'body': '''
+<i class="glyphicon glyphicon-remove-sign"></i>
+'''
+  '關掉':
+    'prefix': '關掉'
+    'body': '''
+<i class="glyphicon glyphicon-remove-circle"></i>
+'''
+  '關掉':
+    'prefix': '關掉'
+    'body': '''
+<i class="glyphicon glyphicon-remove"></i>
+'''
+  '關掉':
+    'prefix': '關掉'
+    'body': '''
+<i class="fa fa-times-circle"></i>
+'''
+  '關掉':
+    'prefix': '關掉'
+    'body': '''
+<i class="fa fa-times-circle-o"></i>
+'''
+  '關掉':
+    'prefix': '關掉'
+    'body': '''
+<i class="fa fa-times"></i>
+'''
+
+  '關閉':
+    'prefix': '關閉'
+    'body': '''
+<i class="glyphicon glyphicon-remove-circle"></i>
+'''
+  '關閉':
+    'prefix': '關閉'
+    'body': '''
+<i class="glyphicon glyphicon-remove"></i>
+'''
+  '關閉':
+    'prefix': '關閉'
+    'body': '''
+<i class="fa fa-times-circle"></i>
+'''
+  '關閉':
+    'prefix': '關閉'
+    'body': '''
+<i class="fa fa-times-circle-o"></i>
+'''
+  '關閉':
+    'prefix': '關閉'
+    'body': '''
+<i class="fa fa-times"></i>
+'''
+
+  '附件':
+    'prefix': '附件'
+    'body': '''
+<i class="glyphicon glyphicon-paperclip"></i>
+'''
+  '附件':
+    'prefix': '附件'
+    'body': '''
+<i class="fa fa-paperclip"></i>
+'''
+
+  '降低音量':
+    'prefix': '降低音量'
+    'body': '''
+<i class="glyphicon glyphicon-volume-down"></i>
+'''
+  '降低音量':
+    'prefix': '降低音量'
+    'body': '''
+<i class="fa fa-volume-down"></i>
+'''
+
+  '隱藏':
+    'prefix': '隱藏'
+    'body': '''
+<i class="glyphicon glyphicon-eye-close"></i>
+'''
+  '隱藏':
+    'prefix': '隱藏'
+    'body': '''
+<i class="glyphicon glyphicon-eye-open"></i>
+'''
+  '隱藏':
+    'prefix': '隱藏'
+    'body': '''
+<i class="fa fa-eye-slash"></i>
+'''
+  '隱藏':
+    'prefix': '隱藏'
+    'body': '''
+<i class="fa fa-eye"></i>
+'''
+
+  '雨傘':
+    'prefix': '雨傘'
+    'body': '''
+<i class="fa fa-umbrella"></i>
+'''
+
+  '雲':
+    'prefix': '雲'
+    'body': '''
+<i class="glyphicon glyphicon-cloud-upload"></i>
+'''
+  '雲':
+    'prefix': '雲'
+    'body': '''
+<i class="glyphicon glyphicon-cloud-download"></i>
+'''
+  '雲':
+    'prefix': '雲'
+    'body': '''
+<i class="glyphicon glyphicon-cloud"></i>
+'''
+  '雲':
+    'prefix': '雲'
+    'body': '''
+<i class="fa fa-cloud-upload"></i>
+'''
+  '雲':
+    'prefix': '雲'
+    'body': '''
+<i class="fa fa-cloud-download"></i>
+'''
+  '雲':
+    'prefix': '雲'
+    'body': '''
+<i class="fa fa-cloud"></i>
+'''
+
+  '電力':
+    'prefix': '電力'
+    'body': '''
+<i class="glyphicon glyphicon-flash"></i>
+'''
+  '電力':
+    'prefix': '電力'
+    'body': '''
+<i class="fa fa-bolt"></i>
+'''
+  '電力':
+    'prefix': '電力'
+    'body': '''
+<i class="fa fa-battery-empty"></i>
+'''
+  '電力':
+    'prefix': '電力'
+    'body': '''
+<i class="fa fa-battery-quarter"></i>
+'''
+  '電力':
+    'prefix': '電力'
+    'body': '''
+<i class="fa fa-battery-half"></i>
+'''
+  '電力':
+    'prefix': '電力'
+    'body': '''
+<i class="fa fa-battery-three-quarters"></i>
+'''
+  '電力':
+    'prefix': '電力'
+    'body': '''
+<i class="fa fa-battery-full"></i>
+'''
+
+  '電子郵件':
+    'prefix': '電子郵件'
+    'body': '''
+<i class="glyphicon glyphicon-envelope"></i>
+'''
+  '電子郵件':
+    'prefix': '電子郵件'
+    'body': '''
+<i class="fa fa-envelope-square"></i>
+'''
+  '電子郵件':
+    'prefix': '電子郵件'
+    'body': '''
+<i class="fa fa-envelope-o"></i>
+'''
+  '電子郵件':
+    'prefix': '電子郵件'
+    'body': '''
+<i class="fa fa-envelope"></i>
+'''
+
+  '電池':
+    'prefix': '電池'
+    'body': '''
+<i class="fa fa-battery-empty"></i>
+'''
+  '電池':
+    'prefix': '電池'
+    'body': '''
+<i class="fa fa-battery-quarter"></i>
+'''
+  '電池':
+    'prefix': '電池'
+    'body': '''
+<i class="fa fa-battery-half"></i>
+'''
+  '電池':
+    'prefix': '電池'
+    'body': '''
+<i class="fa fa-battery-three-quarters"></i>
+'''
+  '電池':
+    'prefix': '電池'
+    'body': '''
+<i class="fa fa-battery-full"></i>
+'''
+
+  '電燈':
+    'prefix': '電燈'
+    'body': '''
+<i class="fa fa-lightbulb-o"></i>
+'''
+
+  '電腦':
+    'prefix': '電腦'
+    'body': '''
+<i class="fa fa-tablet"></i>
+'''
+  '電腦':
+    'prefix': '電腦'
+    'body': '''
+<i class="fa fa-television"></i>
+'''
+  '電腦':
+    'prefix': '電腦'
+    'body': '''
+<i class="fa fa-laptop"></i>
+'''
+  '電腦':
+    'prefix': '電腦'
+    'body': '''
+<i class="fa fa-desktop"></i>
+'''
+
+  '電視':
+    'prefix': '電視'
+    'body': '''
+<i class="fa fa-television"></i>
+'''
+
+  '電話':
+    'prefix': '電話'
+    'body': '''
+<i class="fa fa-fax"></i>
+'''
+  '電話':
+    'prefix': '電話'
+    'body': '''
+<i class="fa fa-phone-square"></i>
+'''
+  '電話':
+    'prefix': '電話'
+    'body': '''
+<i class="fa fa-phone"></i>
+'''
+
+  '靜音':
+    'prefix': '靜音'
+    'body': '''
+<i class="glyphicon glyphicon-volume-off"></i>
+'''
+  '靜音':
+    'prefix': '靜音'
+    'body': '''
+<i class="fa fa-bell-slash"></i>
+'''
+  '靜音':
+    'prefix': '靜音'
+    'body': '''
+<i class="fa fa-bell-slash-o"></i>
+'''
+  '靜音':
+    'prefix': '靜音'
+    'body': '''
+<i class="fa fa-volume-off"></i>
+'''
+  '靜音':
+    'prefix': '靜音'
+    'body': '''
+<i class="fa fa-microphone-slash"></i>
+'''
+
+  '音樂':
+    'prefix': '音樂'
+    'body': '''
+<i class="glyphicon glyphicon-headphones"></i>
+'''
+  '音樂':
+    'prefix': '音樂'
+    'body': '''
+<i class="fa fa-spotify"></i>
+'''
+  '音樂':
+    'prefix': '音樂'
+    'body': '''
+<i class="fa fa-headphones"></i>
+'''
+  '音樂':
+    'prefix': '音樂'
+    'body': '''
+<i class="fa fa-music"></i>
+'''
+
+  '音量':
+    'prefix': '音量'
+    'body': '''
+<i class="glyphicon glyphicon-volume-up"></i>
+'''
+  '音量':
+    'prefix': '音量'
+    'body': '''
+<i class="glyphicon glyphicon-volume-down"></i>
+'''
+  '音量':
+    'prefix': '音量'
+    'body': '''
+<i class="glyphicon glyphicon-volume-off"></i>
+'''
+  '音量':
+    'prefix': '音量'
+    'body': '''
+<i class="fa fa-volume-up"></i>
+'''
+  '音量':
+    'prefix': '音量'
+    'body': '''
+<i class="fa fa-bell"></i>
+'''
+  '音量':
+    'prefix': '音量'
+    'body': '''
+<i class="fa fa-bell-o"></i>
+'''
+  '音量':
+    'prefix': '音量'
+    'body': '''
+<i class="fa fa-volume-down"></i>
+'''
+  '音量':
+    'prefix': '音量'
+    'body': '''
+<i class="fa fa-volume-off"></i>
+'''
+  '音量':
+    'prefix': '音量'
+    'body': '''
+<i class="fa fa-microphone-slash"></i>
+'''
+
+  '顯示':
+    'prefix': '顯示'
+    'body': '''
+<i class="glyphicon glyphicon-eye-close"></i>
+'''
+  '顯示':
+    'prefix': '顯示'
+    'body': '''
+<i class="glyphicon glyphicon-eye-open"></i>
+'''
+  '顯示':
+    'prefix': '顯示'
+    'body': '''
+<i class="fa fa-eye-slash"></i>
+'''
+  '顯示':
+    'prefix': '顯示'
+    'body': '''
+<i class="fa fa-eye"></i>
+'''
+
+  '飛標':
+    'prefix': '飛標'
+    'body': '''
+<i class="glyphicon glyphicon-chevron-up"></i>
+'''
+  '飛標':
+    'prefix': '飛標'
+    'body': '''
+<i class="glyphicon glyphicon-chevron-down"></i>
+'''
+  '飛標':
+    'prefix': '飛標'
+    'body': '''
+<i class="glyphicon glyphicon-chevron-right"></i>
+'''
+  '飛標':
+    'prefix': '飛標'
+    'body': '''
+<i class="glyphicon glyphicon-chevron-left"></i>
+'''
+  '飛標':
+    'prefix': '飛標'
+    'body': '''
+<i class="glyphicon glyphicon-menu-up"></i>
+'''
+  '飛標':
+    'prefix': '飛標'
+    'body': '''
+<i class="glyphicon glyphicon-menu-down"></i>
+'''
+  '飛標':
+    'prefix': '飛標'
+    'body': '''
+<i class="glyphicon glyphicon-menu-right"></i>
+'''
+  '飛標':
+    'prefix': '飛標'
+    'body': '''
+<i class="glyphicon glyphicon-menu-left"></i>
+'''
+  '飛標':
+    'prefix': '飛標'
+    'body': '''
+<i class="fa fa-chevron-up"></i>
+'''
+  '飛標':
+    'prefix': '飛標'
+    'body': '''
+<i class="fa fa-chevron-down"></i>
+'''
+  '飛標':
+    'prefix': '飛標'
+    'body': '''
+<i class="fa fa-chevron-right"></i>
+'''
+  '飛標':
+    'prefix': '飛標'
+    'body': '''
+<i class="fa fa-chevron-left"></i>
+'''
+  '飛標':
+    'prefix': '飛標'
+    'body': '''
+<i class="fa fa-angle-double-up"></i>
+'''
+  '飛標':
+    'prefix': '飛標'
+    'body': '''
+<i class="fa fa-angle-double-down"></i>
+'''
+  '飛標':
+    'prefix': '飛標'
+    'body': '''
+<i class="fa fa-angle-double-right"></i>
+'''
+  '飛標':
+    'prefix': '飛標'
+    'body': '''
+<i class="fa fa-angle-double-left"></i>
+'''
+  '飛標':
+    'prefix': '飛標'
+    'body': '''
+<i class="fa fa-angle-up"></i>
+'''
+  '飛標':
+    'prefix': '飛標'
+    'body': '''
+<i class="fa fa-angle-down"></i>
+'''
+  '飛標':
+    'prefix': '飛標'
+    'body': '''
+<i class="fa fa-angle-right"></i>
+'''
+  '飛標':
+    'prefix': '飛標'
+    'body': '''
+<i class="fa fa-angle-left"></i>
+'''
+  '飛標':
+    'prefix': '飛標'
+    'body': '''
+<i class="fa fa-chevron-cicle-up"></i>
+'''
+  '飛標':
+    'prefix': '飛標'
+    'body': '''
+<i class="fa fa-chevron-cicle-down"></i>
+'''
+  '飛標':
+    'prefix': '飛標'
+    'body': '''
+<i class="fa fa-chevron-cicle-right"></i>
+'''
+  '飛標':
+    'prefix': '飛標'
+    'body': '''
+<i class="fa fa-chevron-cicle-left"></i>
+'''
+
+  '飛機':
+    'prefix': '飛機'
+    'body': '''
+<i class="fa fa-space-shuttle"></i>
+'''
+  '飛機':
+    'prefix': '飛機'
+    'body': '''
+<i class="fa fa-plane"></i>
+'''
+  '飛機':
+    'prefix': '飛機'
+    'body': '''
+<i class="fa fa-fighter-jet"></i>
+'''
+  '飛機':
+    'prefix': '飛機'
+    'body': '''
+<i class="fa fa-rocket"></i>
+'''
+  '飛機':
+    'prefix': '飛機'
+    'body': '''
+<i class="fa fa-paper-plane"></i>
+'''
+  '飛機':
+    'prefix': '飛機'
+    'body': '''
+<i class="fa fa-paper-plane-o"></i>
+'''
+
+  '飛行':
+    'prefix': '飛行'
+    'body': '''
+<i class="fa fa-space-shuttle"></i>
+'''
+  '飛行':
+    'prefix': '飛行'
+    'body': '''
+<i class="fa fa-plane"></i>
+'''
+  '飛行':
+    'prefix': '飛行'
+    'body': '''
+<i class="fa fa-fighter-jet"></i>
+'''
+  '飛行':
+    'prefix': '飛行'
+    'body': '''
+<i class="fa fa-rocket"></i>
+'''
+  '飛行':
+    'prefix': '飛行'
+    'body': '''
+<i class="fa fa-paper-plane"></i>
+'''
+  '飛行':
+    'prefix': '飛行'
+    'body': '''
+<i class="fa fa-paper-plane-o"></i>
+'''
+
+  '飛鏢':
+    'prefix': '飛鏢'
+    'body': '''
+<i class="glyphicon glyphicon-chevron-up"></i>
+'''
+  '飛鏢':
+    'prefix': '飛鏢'
+    'body': '''
+<i class="glyphicon glyphicon-chevron-down"></i>
+'''
+  '飛鏢':
+    'prefix': '飛鏢'
+    'body': '''
+<i class="glyphicon glyphicon-chevron-right"></i>
+'''
+  '飛鏢':
+    'prefix': '飛鏢'
+    'body': '''
+<i class="glyphicon glyphicon-chevron-left"></i>
+'''
+  '飛鏢':
+    'prefix': '飛鏢'
+    'body': '''
+<i class="glyphicon glyphicon-menu-up"></i>
+'''
+  '飛鏢':
+    'prefix': '飛鏢'
+    'body': '''
+<i class="glyphicon glyphicon-menu-down"></i>
+'''
+  '飛鏢':
+    'prefix': '飛鏢'
+    'body': '''
+<i class="glyphicon glyphicon-menu-right"></i>
+'''
+  '飛鏢':
+    'prefix': '飛鏢'
+    'body': '''
+<i class="glyphicon glyphicon-menu-left"></i>
+'''
+  '飛鏢':
+    'prefix': '飛鏢'
+    'body': '''
+<i class="fa fa-chevron-up"></i>
+'''
+  '飛鏢':
+    'prefix': '飛鏢'
+    'body': '''
+<i class="fa fa-chevron-down"></i>
+'''
+  '飛鏢':
+    'prefix': '飛鏢'
+    'body': '''
+<i class="fa fa-chevron-right"></i>
+'''
+  '飛鏢':
+    'prefix': '飛鏢'
+    'body': '''
+<i class="fa fa-chevron-left"></i>
+'''
+  '飛鏢':
+    'prefix': '飛鏢'
+    'body': '''
+<i class="fa fa-angle-double-up"></i>
+'''
+  '飛鏢':
+    'prefix': '飛鏢'
+    'body': '''
+<i class="fa fa-angle-double-down"></i>
+'''
+  '飛鏢':
+    'prefix': '飛鏢'
+    'body': '''
+<i class="fa fa-angle-double-right"></i>
+'''
+  '飛鏢':
+    'prefix': '飛鏢'
+    'body': '''
+<i class="fa fa-angle-double-left"></i>
+'''
+  '飛鏢':
+    'prefix': '飛鏢'
+    'body': '''
+<i class="fa fa-angle-up"></i>
+'''
+  '飛鏢':
+    'prefix': '飛鏢'
+    'body': '''
+<i class="fa fa-angle-down"></i>
+'''
+  '飛鏢':
+    'prefix': '飛鏢'
+    'body': '''
+<i class="fa fa-angle-right"></i>
+'''
+  '飛鏢':
+    'prefix': '飛鏢'
+    'body': '''
+<i class="fa fa-angle-left"></i>
+'''
+  '飛鏢':
+    'prefix': '飛鏢'
+    'body': '''
+<i class="fa fa-chevron-cicle-up"></i>
+'''
+  '飛鏢':
+    'prefix': '飛鏢'
+    'body': '''
+<i class="fa fa-chevron-cicle-down"></i>
+'''
+  '飛鏢':
+    'prefix': '飛鏢'
+    'body': '''
+<i class="fa fa-chevron-cicle-right"></i>
+'''
+  '飛鏢':
+    'prefix': '飛鏢'
+    'body': '''
+<i class="fa fa-chevron-cicle-left"></i>
+'''
+
+  '首頁':
+    'prefix': '首頁'
+    'body': '''
+<i class="glyphicon glyphicon-home"></i>
+'''
+  '首頁':
+    'prefix': '首頁'
+    'body': '''
+<i class="fa fa-home"></i>
+'''
+
+  '驚嘆號':
+    'prefix': '驚嘆號'
+    'body': '''
+<i class="glyphicon glyphicon-alert"></i>
+'''
+  '驚嘆號':
+    'prefix': '驚嘆號'
+    'body': '''
+<i class="glyphicon glyphicon-exclamation-sign"></i>
+'''
+  '驚嘆號':
+    'prefix': '驚嘆號'
+    'body': '''
+<i class="glyphicon glyphicon-warning-sign"></i>
+'''
+  '驚嘆號':
+    'prefix': '驚嘆號'
+    'body': '''
+<i class="fa fa-exclamation"></i>
+'''
+  '驚嘆號':
+    'prefix': '驚嘆號'
+    'body': '''
+<i class="fa fa-exclamation-triangle"></i>
+'''
+  '驚嘆號':
+    'prefix': '驚嘆號'
+    'body': '''
+<i class="fa fa-exclamation-circle"></i>
+'''
+
+  '高腳杯':
+    'prefix': '高腳杯'
+    'body': '''
+<i class="glyphicon glyphicon-glass"></i>
+'''
+  '高腳杯':
+    'prefix': '高腳杯'
+    'body': '''
+<i class="fa fa-glass"></i>
+'''
+
+  '黑板':
+    'prefix': '黑板'
+    'body': '''
+<i class="glyphicon glyphicon-blackboard"></i>
+'''
+
+  '點點點':
+    'prefix': '點點點'
+    'body': '''
+<i class="glyphicon glyphicon-option-vertical"></i>
+'''
+  '點點點':
+    'prefix': '點點點'
+    'body': '''
+<i class="glyphicon glyphicon-option-horizontal"></i>
+'''
+  '點點點':
+    'prefix': '點點點'
+    'body': '''
+<i class="fa fa-ellipsis-v"></i>
+'''
+  '點點點':
+    'prefix': '點點點'
+    'body': '''
+<i class="fa fa-ellipsis-h"></i>
+'''
+
+  '齒輪':
+    'prefix': '齒輪'
+    'body': '''
+<i class="glyphicon glyphicon-cog"></i>
+'''
+  '齒輪':
+    'prefix': '齒輪'
+    'body': '''
+<i class="fa fa-cog"></i>
+'''
+  '齒輪':
+    'prefix': '齒輪'
+    'body': '''
+<i class="fa fa-cogs"></i>
+'''
